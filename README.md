@@ -27,7 +27,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 
 ##CLASS SCHEDULE:
 
-| Class 1 > Week 5: No physical class. No tutorial session |
+| Class 01 > Week 5: No physical class. No tutorial session |
 ---  
 | Preparation to [Transmediale](https://transmediale.de/)| 
 | **Reading/Listening:** <br> -	Podcast: [Episode 576: When Women Stopped Coding] (http://www.npr.org/sections/money/2016/07/22/487069271/episode-576-when-women-stopped-coding)  <br>-	Article: [Women in Computing History by Denise Gurer] (http://xover.mud.at/~marty/iug2/p116-gurer.pdf)|  
