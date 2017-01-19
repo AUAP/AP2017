@@ -29,7 +29,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 
 | Class 01 > Week 5: No physical class. No tutorial session |
 ---  
-| Preparation to [Transmediale](https://transmediale.de/)| 
+| [Transmediale Festival](https://transmediale.de/)| 
 | **Reading/Listening:** <br> -	Podcast: [Episode 576: When Women Stopped Coding] (http://www.npr.org/sections/money/2016/07/22/487069271/episode-576-when-women-stopped-coding)  <br>-	Article: [Women in Computing History by Denise Gurer] (http://xover.mud.at/~marty/iug2/p116-gurer.pdf)|  
 | **Thinking line:** <br> Think about what you have experienced in childhood and today, such as advertisement and marketing strategies on games/electronic devices and conversations with peers, have you experienced any forms of gender bias? How’s the practice of coding influenced by culture and society? |  
 
