@@ -65,3 +65,11 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 | **Reading/Watching:** <br> - [Syntax on p5.js] (https://p5js.org/reference/) (All functions within Typography category)<br> - [Tutorial on p5.js: Text and Type by Allison Parrish] (http://creative-coding.decontextualize.com/text-and-type/) <br> -	[Video on p5.js: Arrays by Daniel Shiffman] (https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) **(must watch 6.1 and 6.2)** <br> -	Article: [The aesthetics of materiality in electronic literature by Serge Bouchardon] (https://elmcip.net/critical-writing/aesthetics-materiality-electronic-literature)|  
 |**Peer-tutoring: Group 3 / Respondents: Group 7** , Topic: RiTa library <br>-	How to incorporate sound and video in your sketch? <br>-	How to import and use RiTa library in your sketch? (see [ref1](https://www.youtube.com/watch?v=lIPEvh8HbGQ) and [ref2] (http://rednoise.org/rita/) ) <br>-	Sample colde <br> - Can you express your thoughts about your sample code in relation to the aesthetics of materiality in electronic literature|
 | **Weekly mini ex5: due week 11 - Electronic Literature** <br> Check mini ex5 folder |
+  
+| Class 07 > Week 11 [14-Mar]: Code and Generativty. Tutorial session on Wed|
+---  
+|Unpredictability, randomness, loop and recursion|
+|Guest Lecture on Generatviity by Tobias Stenberg Christensen|
+| **Reading/Watching:** <br> - [Video: How to draw with Code by Casey Reas] (https://www.youtube.com/watch?v=_8DMEHxOLQE) <br> - Article: Generative Art Theory (2016) by Philip Galanter (check blackboard) <br> -	[Video: Factal Trees – Recursive by Daniel Shiffman] (https://www.youtube.com/watch?v=0jjeOYMjmDU)|  
+|** No Peer Tutoring**|
+| **Weekly mini ex6: due week 12 - Generative art/program** <br> Check mini ex6 folder |
