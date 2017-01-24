@@ -115,7 +115,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 |Final evaluation and reflection, preparation for the exam|
 
 ##CORE REFERENCES:  
--	Book: Getting Started with p5.js: Making interactive graphics in Javascript and Processing (Make) by Lauren McCarthy, Casey Reas and Ben Fry
+-	Getting Started with p5.js: Making interactive graphics in Javascript and Processing (Make) by Lauren McCarthy, Casey Reas and Ben Fry
 -	[Text and source code: Coding Projects with p5.js by Catherine Leung] (https://cathyatseneca.gitbooks.io/coding-projects-with-p5-js/)
 -	[Video: Foundations of Programming in Javascript = p5.js Tutorial by Daniel Shiffman]	(https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) 
 -	[Video: Crockford on Javascript (more historical context)] (https://www.youtube.com/watch?v=JxAXlJEmNMg&list=PLK2r_jmNshM9o-62zTR2toxyRlzrBsSL2) 
