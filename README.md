@@ -38,7 +38,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 | **Reading/Listening:** <br> -	Article: -	Article: Fazi, M. B and Fuller, M. (2016). Computational Aesthetics. In C. Paul (Ed), A Companion to Digital Art. John Wiley & Sons, Inc. (check blackboard) <br>-	Article: Yuill, S. (2005). Programming as Practice. In J. Gibbons and K. Winwood (Eds.), Hothaus Papers: perspectives and paradigms in media arts, Birmingham: ARTicle Press. [http://www.lipparosa.org/essays/syuill_progprac.pdf] (http://www.lipparosa.org/essays/syuill_progprac.pdf)<br>-	Article: Montfort, N (2016). Exploratory Programming For the Arts and Humanities. MIT Press. (check blackboard - Appendix A: Why Program?) |  
 | **Weekly mini ex1: due week 7 - Net Art Review** <br> Check mini ex1 folder |
 
-| Class 03 > Week 7 [14-Feb]: Code and Get Started With tutorial session|
+| Class 03 > Week 7 [14-Feb]: Code and Get Started. With tutorial session on Wed|
 ---  
 | **Reading/Listening:** <br> -	[Video on p5.js: hello] (http://hello.p5js.org/) <br>- [Video on p5.js: Introduction by Daniel Shiffman] (https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) (**must watch: 1.1**) <br> - [Article on p5.js: First steps with p5.js by Allison Parrish] (http://creative-coding.decontextualize.com/first-steps/ ) <br> -	[Tutorial on p5.js: Get started] (https://p5js.org/get-started/) <br> -	[Video on Github: Sharing/version control/operation/hosting by Daniel Shiffman] (https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) (**must watch: 1.1, 1.2, 1.4, 1.8**) |  
 | **Weekly mini ex2: due week 8 - My first program** <br> Check mini ex2 folder |
