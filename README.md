@@ -33,4 +33,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 | **Reading/Listening:** <br> -	Podcast: [Episode 576: When Women Stopped Coding] (http://www.npr.org/sections/money/2016/07/22/487069271/episode-576-when-women-stopped-coding)  <br>-	Article: [Women in Computing History by Denise Gurer] (http://xover.mud.at/~marty/iug2/p116-gurer.pdf)|  
 | **Thinking line:** <br> Think about what you have experienced in childhood and today, such as advertisement and marketing strategies on games/electronic devices and conversations with peers, have you experienced any forms of gender bias? How’s the practice of coding influenced by culture and society? |  
 
+| Class 02 > Week 6 [7-Feb]: Code and Practice. No tutorial session |
+---  
+| **Reading/Listening:** <br> -	Article: -	Article: Fazi, M. B and Fuller, M. (2016). Computational Aesthetics. In C. Paul (Ed), A Companion to Digital Art. John Wiley & Sons, Inc. (check blackboard) <br>-	Article: Yuill, S. (2005). Programming as Practice. In J. Gibbons and K. Winwood (Eds.), Hothaus Papers: perspectives and paradigms in media arts, Birmingham: ARTicle Press. [http://www.lipparosa.org/essays/syuill_progprac.pdf] (http://www.lipparosa.org/essays/syuill_progprac.pdf)<br>-	Article: Montfort, N (2016). Exploratory Programming For the Arts and Humanities. MIT Press. (check blackboard) |  
 
