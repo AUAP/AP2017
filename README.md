@@ -119,3 +119,9 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 -	[Text and source code: Coding Projects with p5.js by Catherine Leung] (https://cathyatseneca.gitbooks.io/coding-projects-with-p5-js/)
 -	[Video: Foundations of Programming in Javascript = p5.js Tutorial by Daniel Shiffman]	(https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) 
 -	[Video: Crockford on Javascript (more historical context)] (https://www.youtube.com/watch?v=JxAXlJEmNMg&list=PLK2r_jmNshM9o-62zTR2toxyRlzrBsSL2) 
+
+##TURNING IN YOUR WORK:
+- Create a README.md for each mini exercise, indicating which mini ex and the topic of the mini ex. Please also include the name of your sketch and a short description of the sketch (for example, what do you want to explore? How does your sketch work?).
+- Take a screen shot of your program that would best represent your work (include in your README.md)
+- For each mini exercise, there should be one sketch folder (include your js sketch) as well as a README.md
+- Make sure the sketch folder contains necessary library, file and correct directory. It should be able to run on a github server through a web browser. 
