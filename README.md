@@ -99,3 +99,17 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 ---  
 |***Upload your group project’s synopsis by 21 Apr 2017 day end. ***|
 - - - -
+| Class 11 > Week 17 [25-Apr]: Preparation for Group tutorials. Tutorial session on Wed|
+---  
+|Feedback on draft synopsis. Groups will present to each other and discuss progression|
+|**No Peer-tutoring**|
+- - - -
+| NO CLASS on week 18 >> Preparation for your final presentation!! Tutorial Session on Wed |
+- - - -
+| Class 12 > Week 19 [9-May]: Final project - group presentation (half day). No Tutorial session|
+- - - -
+| Class 13 > Week 20 [16-May]: Final Final. No Tutorial session|
+---  
+|Final evaluation and reflection, preparation for the exam|
+
+
