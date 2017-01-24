@@ -121,8 +121,18 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 -	[Video: Foundations of Programming in Javascript - p5.js Tutorial by Daniel Shiffman]	(https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) 
 -	[Video: Crockford on Javascript (more historical context)] (https://www.youtube.com/watch?v=JxAXlJEmNMg&list=PLK2r_jmNshM9o-62zTR2toxyRlzrBsSL2) 
 
-##TURNING IN YOUR WORK:
+##TURNING IN YOUR Mini Ex:
 - Create a README.md for each mini exercise, indicating which mini ex and the topic of the mini ex. Please also include the name of your sketch and a short description of the sketch (for example, what do you want to explore? How does your sketch work?).
 - Take a screen shot of your program that would best represent your work (include in your README.md)
 - For each mini exercise, there should be one sketch folder (include your js sketch) as well as a README.md
 - Make sure the sketch folder contains necessary library, file and correct directory. It should be able to run on a github server through a web browser. 
+
+##WHY having mini exercises:
+- It is absolutely fine if the program is a simple one and not having a "well designed" screen. Just feel free to explore different features and functions in programming. 
+- Please make use of your peers to learn different syntax, functions and operators and to ask questions.
+- The more you practice, the more you will get out of the course. 
+- The aims of having weekly mini exercises are to encourage experimentation, practice programming and stimulate thinking, therefore there is no grade for this.
+
+##RULES:
+1. To pass the participation requirement and to enter Exam A, you need to attend at least 75% of the course which means you can only skip maximum 3 classes and 3 tutorials.
+2. Weekly mini exercises is part of the course participation, those who fail to submit their work may incur a penality of absence in one class. 
