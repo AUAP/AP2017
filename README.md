@@ -95,11 +95,12 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 |**No Peer-tutoring**|
 | **Weekly mini ex9: due week 15 - Utilizing APIs** <br> Check mini ex9 folder |
 - - - -
-| NO CLASS on week 15-16 >> Preparation for your final presentation!! |
+| NO PHYSICAL CLASS on week 15-16 >> Preparation for your final presentation!! |
 ---  
 |***Upload your group project’s synopsis by 21 Apr 2017 day end. ***|
+|***No Tutorial on week 15 but there will be tutorial on week 16***|
 - - - -
-| Class 11 > Week 17 [25-Apr]: Preparation for Group tutorials. Tutorial session on Wed|
+| Class 11 > Week 17 [25-Apr]: Preparation for Group tutorials (half day). Tutorial session on Wed|
 ---  
 |Feedback on draft synopsis. Groups will present to each other and discuss progression|
 |**No Peer-tutoring**|
