@@ -78,5 +78,25 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 ---  
 |object and array, class, constructor|
 | **Reading/Watching:** <br> - [Video on p5.js: objects by Daniel Shiffman] (https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) (must watch: 2.3, 5.4, 6.3-6.5) <br> - [Tutorial on p5.js: Objects and Arrays of objects1] (https://p5js.org/examples/objects-objects.html)  <br> -	[Tutorial on p5.js: Objects and Arrays of objects2] (https://p5js.org/examples/objects-array-of-objects.html) <br> -	[Sample code: object, behavior and p5.dom library] (https://thimble.mozilla.org/en-US/anonymous/959d732f-ae03-466e-a9c3-80fc72331f01/92352) <br> - [Article: The Birth of Object Orientation: the Simula Languages by Ole-Johan Dhl (2001)] (http://www.olejohandahl.info/old/birth-of-oo.pdf)  |  
-|**Peer-tutoring: Group 4 / Respondents: Group 6** , Topic: p5.dom library <br>- How to import and use p5.dom library in your sketch? <br>- Provide sample code? <br>- How may we use different HTML5 objects in p5.dom to think about the aesthetics of objects?  
+|**Peer-tutoring: Group 4 / Respondents: Group 6** , Topic: p5.dom library <br>- How to import and use p5.dom library in your sketch? <br>- Provide sample code? <br>- How may we use different HTML5 objects in p5.dom to think about the aesthetics of objects? |
 | **Weekly mini ex7: due week 13 - Making form art with objects** <br> Check mini ex7 folder |
+- - - -
+| Class 09 > Week 13 [28-Mar]: Code and Algorithms. Tutorial session on Wed|
+---  
+|flow chart, recipes, rules. Introduce final project brief|
+| **Reading/Watching:** <br> - [Video: Algorithms in pseudocode and flow diagrams] (https://www.youtube.com/watch?v=XDWw4Ltfy5w) <br> - [Tutorial on p5.js: Objects and Arrays of objects1] (https://p5js.org/examples/objects-objects.html)  <br> -	[Flow chart symbols by Robert L. Oakman] (http://www.wiley.com/college/busin/icmis/oakman/outline/chap05/slides/symbols.htm) <br> -	[Flow chart examples by Richa] (https://blog.udemy.com/flowchart-examples/)|  
+|**Peer-tutoring: Group 5** , Topic: JSON <br>- What is JSON? How to use JSON? <br>- Why is it important to know JSON? <br>- Provide sample code <br> What does this data processing tell us about datafied culture? |
+| **Weekly mini ex8: due week 14 - Coding challenge** <br> Check mini ex8 folder |
+- - - -
+| Class 10 > Week 14 [4-Apr]: Code and Datafication. Tutorial session on Wed|
+---  
+|Read data, JSON, API|
+| **Reading/Watching:** <br> - [Video: Working with data by Daniel Shiffman] (https://www.youtube.com/watch?v=_NFkzw6oFtQ&list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r&index=2) **(Must watch: 8.1-8.10)** <br> - [Tutorial on p5.js: Objects and Arrays of objects1] (https://p5js.org/examples/objects-objects.html)  <br> -	[Different APIs for ref] (https://itp.nyu.edu/classes/cc-s16/category/88data/) <br> -	[Article: The politics of Big Data Aesthetics by Morten Søndergaard] (http://ojs.statsbiblioteket.dk/index.php/mediekultur/article/view/23078)|  
+|**No Peer-tutoring**|
+| **Weekly mini ex9: due week 15 - Utilizing APIs** <br> Check mini ex9 folder |
+- - - -
+**************************************************
+NO CLASS on week 15-16 >> Preparation for your final presentation!! 
+***Upload your group project’s synopsis by 21 Apr 2017 day end. ***
+**************************************************
+- - - -
