@@ -36,7 +36,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 | Class 02 > Week 6 [7-Feb]: Code and Practice. No tutorial session |
 ---  
 |Introduction|
-| **Reading/Listening:** <br> -	Article: -	Article: Fazi, M. B and Fuller, M. (2016). Computational Aesthetics. In C. Paul (Ed), A Companion to Digital Art. John Wiley & Sons, Inc. (check blackboard) <br>-	Article: Yuill, S. (2005). Programming as Practice. In J. Gibbons and K. Winwood (Eds.), Hothaus Papers: perspectives and paradigms in media arts, Birmingham: ARTicle Press. [http://www.lipparosa.org/essays/syuill_progprac.pdf] (http://www.lipparosa.org/essays/syuill_progprac.pdf)<br>-	Article: Montfort, N (2016). Exploratory Programming For the Arts and Humanities. MIT Press. (check blackboard - Appendix A: Why Program?) |  
+| **Reading/Listening:** <br> -	Article: Fazi, M. B and Fuller, M. (2016). Computational Aesthetics. In C. Paul (Ed), A Companion to Digital Art. John Wiley & Sons, Inc. (check blackboard) <br>-	Article: Yuill, S. (2005). Programming as Practice. In J. Gibbons and K. Winwood (Eds.), Hothaus Papers: perspectives and paradigms in media arts, Birmingham: ARTicle Press. [http://www.lipparosa.org/essays/syuill_progprac.pdf] (http://www.lipparosa.org/essays/syuill_progprac.pdf)<br>-	Article: Montfort, N (2016). Exploratory Programming For the Arts and Humanities. MIT Press. (check blackboard - Appendix A: Why Program?) |  
 | **Weekly mini ex1: due week 7 - Net Art Review** <br> Check mini ex1 folder |
 - - - -
 | Class 03 > Week 7 [14-Feb]: Code and Get Started. Tutorial session on Wed|
