@@ -48,6 +48,13 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 | Class 04 > Week 8 [21-Feb]: Code and Loading. Tutorial session on Wed|
 ---  
 |Basic Drawing, use of shapes, loading images. Functions include: fill, Color, Image, Shape|
-| **Reading/Watching:** <br> - [Video on p5.js: Introduction by Daniel Shiffman] (https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) (**must watch: 1.2 and 1.3**) <br> - [Example on p5.js: Simple Shapes] (http://p5js.org/examples/hello-p5-simple-shapes.html) <br> -	[Syntax on p5.js] (http://p5js.org/examples/) (see: Load and Display Image) |  
-|**Peer-tutoring: Group 1 / Respondents: Group 10** , Topic: Loading with push() and pop() <br>-	Describe the syntax, and how to use it? <br>-	Sample code <br>-	How to associate your work with one or more aspects of Fazi and Fuller’s understanding of computational aesthetics?|
+| **Reading/Watching:** <br> - [Video on p5.js by Daniel Shiffman] (https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) (**must watch: 1.2 and 1.3**) <br> - [Example on p5.js: Simple Shapes] (http://p5js.org/examples/hello-p5-simple-shapes.html) <br> -	[Syntax on p5.js] (http://p5js.org/examples/) (see: Load and Display Image) |  
+|**Peer-tutoring: Group 1 / Respondents: Group 10** , Topic: Loading with push() and pop() <br>-	Describe the syntax, and how to use it? <br>-	Sample code <br>-	Can you associate your work with one or more aspects of Fazi and Fuller’s understanding of computational aesthetics?|
 | **Weekly mini ex3: due week 9 - A throbber design** <br> Check mini ex3 folder |
+
+| Class 05 > Week 9 [28-Feb]: Code and Interactivity. Tutorial session on Wed|
+---  
+|Input/Output, event listener, conditional statements, sensing and functions|
+| **Reading/Watching:** <br> - [Video on p5.js: interactivity/conditional statements/functions by Daniel Shiffman] (https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) (**must watch: 2.1, 2.2, 3.1, 3.3, 3.4, 4.1, 4.2, 5.1, 5.2, 5.3**) <br> - [Tutorial: Interactivity1] (https://p5js.org/examples/hello-p5-interactivity-1.html) <br> -	[Tutorial: Interactivity2] (https://p5js.org/examples/hello-p5-interactivity-2.html)|  
+|**Peer-tutoring: Group 2 / Respondents: Group 8** , Topic: Conditions with sound and video <br>-	How to incorporate sound and video in your sketch? <br>-	Sample code <br>-	Can you associate your work with one or more aspects of Fazi and Fuller’s understanding of computational aesthetics?|
+| **Weekly mini ex4: due week 10 - Feedback loop** <br> Check mini ex4 folder |
