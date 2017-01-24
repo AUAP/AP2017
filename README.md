@@ -50,7 +50,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 |Basic Drawing, use of shapes, loading images. Functions include: fill, Color, Image, Shape|
 | **Reading/Watching:** <br> - [Video on p5.js by Daniel Shiffman] (https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) (**must watch: 1.2 and 1.3**) <br> - [Example on p5.js: Simple Shapes] (http://p5js.org/examples/hello-p5-simple-shapes.html) <br> -	[Syntax on p5.js] (http://p5js.org/examples/) (see: Load and Display Image) |  
 |**Peer-tutoring: Group 1 / Respondents: Group 10** , Topic: Loading with push() and pop() <br>-	Describe the syntax, and how to use it? <br>-	Sample code <br>-	Can you associate your work with one or more aspects of Fazi and Fuller’s understanding of computational aesthetics?|
-| **Weekly mini ex3: due week 9 - A throbber design** <br> Check mini ex3 folder |
+| **Weekly mini ex3: due week 9 - A throbber design** <br> Check mini ex3 folder|
 
 | Class 05 > Week 9 [28-Feb]: Code and Interactivity. Tutorial session on Wed|
 ---  
@@ -61,7 +61,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 
 | Class 06 > Week 10 [7-Mar]: Code and Language. Tutorial session on Wed|
 ---  
-|Itext, typography, arrays and randomness|
+|text, typography, arrays and randomness|
 | **Reading/Watching:** <br> - [Syntax on p5.js] (https://p5js.org/reference/) (All functions within Typography category)<br> - [Tutorial on p5.js: Text and Type by Allison Parrish] (http://creative-coding.decontextualize.com/text-and-type/) <br> -	[Video on p5.js: Arrays by Daniel Shiffman] (https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) **(must watch 6.1 and 6.2)** <br> -	Article: [The aesthetics of materiality in electronic literature by Serge Bouchardon] (https://elmcip.net/critical-writing/aesthetics-materiality-electronic-literature)|  
 |**Peer-tutoring: Group 3 / Respondents: Group 7** , Topic: RiTa library <br>-	How to incorporate sound and video in your sketch? <br>-	How to import and use RiTa library in your sketch? (see [ref1](https://www.youtube.com/watch?v=lIPEvh8HbGQ) and [ref2] (http://rednoise.org/rita/) ) <br>-	Sample colde <br> - Can you express your thoughts about your sample code in relation to the aesthetics of materiality in electronic literature|
 | **Weekly mini ex5: due week 11 - Electronic Literature** <br> Check mini ex5 folder |
