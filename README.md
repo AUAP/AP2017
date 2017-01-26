@@ -31,7 +31,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 ---  
 | [Transmediale Festival](https://transmediale.de/)| 
 | **Reading/Listening:** <br> -	Podcast: [Episode 576: When Women Stopped Coding] (http://www.npr.org/sections/money/2016/07/22/487069271/episode-576-when-women-stopped-coding)  <br>-	Article: [Women in Computing History by Denise Gurer] (http://xover.mud.at/~marty/iug2/p116-gurer.pdf)|  
-| **Thinking line:** <br> Think about what you have experienced in childhood and today, such as advertisement and marketing strategies on games/electronic devices and conversations with peers, have you experienced any forms of gender bias? How’s the practice of coding influenced by culture and society? |  
+| **Thinking line:** <br> Think about what you have experienced in childhood and today, such as advertisement, packaging, and marketing strategies on games/electronic devices, have you experienced any forms of gender bias? How’s the practice of coding influenced by culture and society? |  
 - - - -
 | Class 02 > Week 6 [7-Feb]: Code and Practice. No tutorial session |
 ---  
@@ -85,7 +85,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 ---  
 |flow chart, recipes, rules. Introduce final project brief|
 | **Reading/Watching:** <br> - [Video: Algorithms in pseudocode and flow diagrams] (https://www.youtube.com/watch?v=XDWw4Ltfy5w) <br> -	[Flow chart symbols by Robert L. Oakman] (http://www.wiley.com/college/busin/icmis/oakman/outline/chap05/slides/symbols.htm) <br> -	[Flow chart examples by Richa] (https://blog.udemy.com/flowchart-examples/)|  
-|**Peer-tutoring: Group 5** , Topic: JSON <br>- What is JSON? How to use JSON? <br>- Why is it important to know JSON? <br>- Provide sample code <br>- What does this data processing tell us about datafied culture? |
+|**Peer-tutoring: Group 5** , Topic: JSON <br>- What is JSON? How to use JSON? <br>- Why is it important to know JSON? <br>- How may we understand data processing through JSON? <br>- sample code <br>- WWhat are the relations between data processing and datafied culture? |
 | **Weekly mini ex8: due week 14 - Coding challenge** <br> Check mini ex8 folder |
 - - - -
 | Class 10 > Week 14 [4-Apr]: Code and Datafication. Tutorial session on Wed|
