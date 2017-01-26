@@ -66,7 +66,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 |**Peer-tutoring: Group 3 / Respondents: Group 7** , Topic: RiTa library <br>-	How to import and use RiTa library in your sketch? (see [ref1](https://www.youtube.com/watch?v=lIPEvh8HbGQ) and [ref2] (http://rednoise.org/rita/) ) <br>-	Sample colde <br> - Can you express your thoughts about your sample code in relation to the aesthetics of materiality in electronic literature|
 | **Weekly mini ex5: due week 11 - Electronic Literature** <br> Check mini ex5 folder |
 - - - -
-| Class 07 > Week 11 [14-Mar]: Code and Generativty. Tutorial session on Wed|
+| Class 07 > Week 11 [13-Mar : MON NOT TUE]: Code and Generativty. Tutorial session on Wed|
 ---  
 |Unpredictability, randomness, loop and recursion|
 |Guest Lecture on Generatviity by Tobias Stenberg Christensen|
