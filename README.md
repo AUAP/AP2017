@@ -55,7 +55,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 | Class 05 > Week 9 [28-Feb]: Code and Interactivity. Tutorial session on Wed|
 ---  
 |Input/Output, event listener, conditional statements, sensing and functions|
-| **Reading/Watching:** <br> - [Video on p5.js: interactivity/conditional statements/functions by Daniel Shiffman] (https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) (**must watch: 2.1, 2.2, 3.1, 3.3, 3.4, 4.1, 4.2, 5.1, 5.2, 5.3**) <br> - [Tutorial: Interactivity1] (https://p5js.org/examples/hello-p5-interactivity-1.html) <br> -	[Tutorial: Interactivity2] (https://p5js.org/examples/hello-p5-interactivity-2.html)|  
+| **Reading/Watching:** <br> - [Video on p5.js: interactivity/conditional statements/functions by Daniel Shiffman] (https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) (**must watch: 2.1, 2.2, 3.1, 3.3, 3.4, 4.1, 4.2, 5.1, 5.2, 5.3**) <br> - [Tutorial: Interactivity1] (https://p5js.org/examples/hello-p5-interactivity-1.html) <br> -	[Tutorial: Interactivity2] (https://p5js.org/examples/hello-p5-interactivity-2.html)<br>- [Article: Cybernetics and the Pioneers of Computer Art by Thomas Dreher] (http://dreher.netzliteratur.net/4_Medienkunst_Kybernetike.html)|  
 |**Peer-tutoring: Group 2 / Respondents: Group 8** , Topic: Conditions with sound and video <br>-	How to incorporate sound and video in your sketch? <br>-	Sample code <br>-	Can you associate your work with one or more aspects of Fazi and Fuller’s understanding of computational aesthetics?|
 | **Weekly mini ex4: due week 10 - Feedback loop** <br> Check mini ex4 folder |
 - - - -
