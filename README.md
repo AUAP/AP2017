@@ -17,7 +17,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 
 ##Other learning support environment:
 1. Weekly 2 hours tutorial session (every Wed - Mandatory)
-2. Weekly 4 hours shut up+code or code study group discussion (every Friday - Optional)
+2. Weekly 4 hours shut up+code or code study group discussion (every Friday - Optional in 5361-135)
 
 ##SKILLS:
 1. Provides an introduction to computer programming
