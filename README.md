@@ -19,11 +19,11 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 1. Weekly 2 hours tutorial session (every Wed - Mandatory)
 2. Weekly 4 hours shut up+code or code study group discussion (every Friday - Optional in 5361-135)
 
-##SKILLS:
-1. Provides an introduction to computer programming
-2. Design and develops computational artefacts 
-3. Integrates practical and theoretical skills
-4. Thinking through making (computational thinking)
+##LEARNING OUTCOMES:
+1. Learn basic concepts in computer programming, such as structures, functions, arrays, conditional statements, objects, and interactivity.
+2. Design and develop computational artefacts.
+3. Integrate practical and theoretical skills to articulte and develop computational artefacts.
+4. Recognize coding practice as a way of thinking and inquiry to understand wider cultural systems (computational thinking).
 
 ##CLASS SCHEDULE:
 
