@@ -4,6 +4,8 @@
 **Time:** Every Tue 0800 – 1100 (3 hours)  
 **Location:** 5361-144
 
+class detail: http://piratepad.net/5apH3XyWVk
+
 ##OUTLINE:  
 “Aesthetic Programming” is a practice-based course requires no prior programming experience but an interest to explore the relationship between art, design, technology and culture within the context of software studies. The course introduces coding as an aesthetic and critical endeavour beyond its functional application. It explores coding as a practice of thinking with and in the world, and understanding the complex computational procedures that underwrite our experiences and realities in digital culture. Through coding practice, students are able to contextualize, conceptualize, articulate, design and write a piece of software. Emphasis is placed on the student acquiring practical skills of expression through an introduction to programming, and this course uses [P5.js] (https://p5js.org/) primarily, which serves as a foundation for further courses on Digital Design.   
   
