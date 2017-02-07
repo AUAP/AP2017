@@ -7,6 +7,9 @@
 
 3) Re-design an animated throbber, and then upload to Github.
 
-4) What is a throbber? How would you describe a throbber? How may we use programming to reflect on digital (visual) culture?
+4) Create a readme file and upload to the same mini_ex3 directory. The readme file should address the followings:
+
+- Describe a bit about your throbber design (your concept and execution)
+- How may we use programming to reflect and inquiry digital (visual) culture?
 
 5) Provide peer-feedback to 2 of your classmates on their works by creating "issues" in his/her github corresponding repository.
