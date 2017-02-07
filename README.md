@@ -19,7 +19,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 
 ##Other learning support environment:
 1. Weekly 2 hours tutorial session (every Wed - Mandatory)
-2. Weekly 4 hours shut up+code or code study group discussion (every Friday - Optional in 5361-135)
+2. Weekly 4 hours shut up+code or code study group discussion (every Friday 10.00-14.00- Optional in 5361-135)
 
 ##LEARNING OUTCOMES:
 1. Learn basic concepts in computer programming, such as structures, functions, arrays, conditional statements, objects, and interactivity.
