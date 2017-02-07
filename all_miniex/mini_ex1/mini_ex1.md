@@ -5,7 +5,7 @@
 2. Pick a software/net art/design work you like from the list below and read the corresponding review/interview/article. Study and think about the artwork with your own perspective.
   * My Boyfriend Came Back from the War (1996) by Olia Lialina | [work] (http://www.teleportacia.org/war/war2.htm) | [interview] (http://thecreatorsproject.vice.com/blog/olia-lialinas-most-famous-net-art-piece-turns-15)  
   * Form Art (1997) by Alexei Shulgin | [work] (http://archive.rhizome.org/anthology/form-art.html) | [interview] (http://rhizome.org/editorial/2017/jan/12/a-net-artist-named-google-1/)   
-  + Geo Goo (2008) by JODI | [work] (http://www.geogoo.net/) | [review] (http://artonetwentynine.blogspot.dk/2011/04/jodi-geo-goo-2008.html)
+  + Geo Goo (2008) by JODI | [work] (http://www.geogoo.net/) | [review1] (http://artonetwentynine.blogspot.dk/2011/04/jodi-geo-goo-2008.html), [review2] (http://www.wordsinspace.net/media-materiality/2012-spring/?p=1091)
   + TrackMeNot (2006) by Daniel C. Howe and Helen Nissenbaum | [work] (https://cs.nyu.edu/trackmenot/) *pls install the add on | [article] (https://cs.nyu.edu/trackmenot/TMN-Howe-Niss08-ch23.pdf)
   + Mothgenerator (2015) by Katie Rose Pipkin and Loren Schmidt | [work] (https://twitter.com/mothgenerator) | [interview] (http://furtherfield.org/features/interviews/about-bot-interview-katie-rose-pipkin) 
   + Facebook Demetricator (2012) by Benjamin Grosser | [work]  (http://bengrosser.com/projects/facebook-demetricator/)  *pls install the add on | [interview] (http://rhizome.org/editorial/2012/nov/15/dont-give-me-numbers-interview-ben-grosser-about-f/) | [optional article] (http://computationalculture.net/article/what-do-metrics-want) 
