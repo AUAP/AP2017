@@ -11,4 +11,6 @@
   - What constitutes a program?
   - What is error?
   
-4) Feedback 2 of your classmate's work by creating "issues" in his/her github corresponding repository 
+4) Read [The Rhetoric of Error in Digital Media by Matthew Bellinger] (http://computationalculture.net/article/the-rhetoric-of-error-in-digital-media-2), does it change your understanding of error? 
+
+5) Feedback 2 of your classmate's work by creating "issues" in his/her github corresponding repository 
