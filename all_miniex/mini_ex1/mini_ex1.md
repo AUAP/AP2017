@@ -7,8 +7,8 @@
   * Form Art (1997) by Alexei Shulgin | [work] (http://archive.rhizome.org/anthology/form-art.html) | [interview] (http://rhizome.org/editorial/2017/jan/12/a-net-artist-named-google-1/)   
   + Geo Goo (2008) by JODI | [work] (http://www.geogoo.net/) | [review] (http://artonetwentynine.blogspot.dk/2011/04/jodi-geo-goo-2008.html)
   + TrackMeNot (2006) by Daniel C. Howe and Helen Nissenbaum | [work] (https://cs.nyu.edu/trackmenot/) *pls install the add on | [article] (https://cs.nyu.edu/trackmenot/TMN-Howe-Niss08-ch23.pdf)
-  + Mothgenerator (2015) by Katie Rose Pipkin and Loren Schmidt | [work] (https://twitter.com/mothgenerator)| [interview] (http://furtherfield.org/features/interviews/about-bot-interview-katie-rose-pipkin) 
-  + Facebook Demetricator (2012) by Benjamin Grosser | [work]  (http://bengrosser.com/projects/facebook-demetricator/)  *pls install the add on | [interview] (http://rhizome.org/editorial/2012/nov/15/dont-give-me-numbers-interview-ben-grosser-about-f/)  
+  + Mothgenerator (2015) by Katie Rose Pipkin and Loren Schmidt | [work] (https://twitter.com/mothgenerator) | [interview] (http://furtherfield.org/features/interviews/about-bot-interview-katie-rose-pipkin) 
+  + Facebook Demetricator (2012) by Benjamin Grosser | [work]  (http://bengrosser.com/projects/facebook-demetricator/)  *pls install the add on | [interview] (http://rhizome.org/editorial/2012/nov/15/dont-give-me-numbers-interview-ben-grosser-about-f/) | [optional article] (http://computationalculture.net/article/what-do-metrics-want) 
   + The Pirate Cinema (2013) by Nicolas Maigret | [work] (http://thepiratecinema.com/) *check the online ver | [article] (http://aksioma.org/pdf/aksioma_PostScriptUM_20_ENG_Maigret.pdf) 
   + Epiphanies (2001) and AdWords Happening (2002) by Christophe Bruno | [work1] (http://www.iterature.com/epiphanies/) and [work2] (http://www.iterature.com/adwords/) |  [article] (http://www.electronicbookreview.com/thread/electropoetics/textualized)
 
