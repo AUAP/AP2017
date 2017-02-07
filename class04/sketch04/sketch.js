@@ -16,7 +16,6 @@ function setup() {
 
 function draw() {
  loading_createimg.position(width/3,0); //loads GIF 
- noStroke();
  fill(10,80);  //check this syntax with alpha value
  rect(0, 0, width, height);
  drawThrobber(9);  //pass to another function, try changing this number
@@ -28,7 +27,6 @@ function drawThrobber(num) {
   push();
   translate(width/2, height/2);
   var cir = 360/num*(frameCount%num);  //360/num >> degree of each ellipse' move ;frameCount%num >> get the remainder that indicates the movement of the ellipse 
-
   rotate(radians(cir));
   noStroke();
   fill(255,255,0); 
