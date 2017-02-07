@@ -11,4 +11,4 @@
   - What constitutes a program?
   - What is error?
   
-  4) Feedback 2 of your classmate's work by creating "issues" in his/her github corresponding repository 
+4) Feedback 2 of your classmate's work by creating "issues" in his/her github corresponding repository 
