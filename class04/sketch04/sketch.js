@@ -1,3 +1,5 @@
+//sketch04
+
 var loading_createimg;
 
 function preload() { 
@@ -25,11 +27,12 @@ function draw() {
 function drawThrobber(num) {  
   push();
   translate(width/2, height/2);
-  var cir = 360/num*(frameCount%num);
+  var cir = 360/num*(frameCount%num);  //360/num >> degree of each ellipse' move ;frameCount%num >> get the remainder that indicates the movement of the ellipse 
+
   rotate(radians(cir));
   noStroke();
   fill(255,255,0); 
-  ellipse(0,35,22,22);   //the moving dot(s)
+  ellipse(35,0,22,22);  //the moving dot(s), the y is the distance from the center
   pop();
   
   /*
