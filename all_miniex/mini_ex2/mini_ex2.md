@@ -11,6 +11,6 @@
   - What constitutes a program?
   - What is error?
   
-4) Read [Glitch by Olga Goriunova and Alexei Shulgin - in the book Software Studies] (http://cmuems.com/2013/b/wp-content/uploads/sites/3/2013/08/Glitch-by-Olga-Goriunova-and-Alexei-Shulgin-from-Software-Studies.pdf), does it change your understanding of error? 
+4) Read [Error, the Unforeseen, and the Emergent (2007) by Tim Barker] (http://journal.media-culture.org.au/0710/03-barker.php), does it change your understanding of error? 
 
 5) Feedback 2 of your classmate's work by creating "issues" in his/her github corresponding repository 
