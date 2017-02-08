@@ -9,7 +9,7 @@
   - A screen shot about your program (see [this] (http://stackoverflow.com/questions/10189356/how-to-add-screenshot-to-readmes-in-github-repository)).
   - Describe your coding process 
   - What constitutes a program?
-  - What is error?
+  - Reflect on the notion of error (what is error to you?)
   
 4) Read [Error, the Unforeseen, and the Emergent (2007) by Tim Barker] (http://journal.media-culture.org.au/0710/03-barker.php), does it change your understanding of error? 
 
