@@ -5,7 +5,7 @@
 
 2) Study the syntaxes that have been discussed in class, and then experiment with a new syntax in p5.js that is related to shape/image (https://p5js.org/reference/).
 
-3) Re-design an animated throbber, and then upload to Github.
+3) Re-design an animated throbber, and then upload to Github (create a new directory under all_miniex > mini_ex3).
 
 4) Create a readme file and upload to the same mini_ex3 directory. The readme file should address the followings:
 
