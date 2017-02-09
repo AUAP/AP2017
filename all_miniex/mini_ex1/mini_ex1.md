@@ -12,4 +12,4 @@
   + The Pirate Cinema (2013) by Nicolas Maigret | [work] (http://thepiratecinema.com/) *check the online ver | [article] (http://aksioma.org/pdf/aksioma_PostScriptUM_20_ENG_Maigret.pdf) 
   + Epiphanies (2001) and AdWords Happening (2002) by Christophe Bruno | [work1] (http://www.iterature.com/epiphanies/) and [work2] (http://www.iterature.com/adwords/) |  [article] (http://www.electronicbookreview.com/thread/electropoetics/textualized)
 
-3. Answer the following questions: Which work have you chosen? What is it? How does the work operate and what kind of software/programming language was used? Who is the artist and what is her/his background? What is the concept? What do you like about it? 
+3. Answer the following questions: Which work have you chosen? What is it? How does the work operate and what kind of software/programming language was used? Can you try to look at the source code and decode some of the logics? Who is the artist and what is her/his background? What is the concept? What do you like about it? 
