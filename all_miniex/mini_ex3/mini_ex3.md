@@ -10,6 +10,6 @@
 4) Create a readme file and upload to the same mini_ex3 directory. The readme file should address the followings:
 
 - Describe a bit about your throbber design (your concept and execution)
-- How may we use programming to reflect and inquiry digital (visual) culture?
+- How may we use programming to reflect and inquire digital (visual) culture?
 
 5) Provide peer-feedback to 2 of your classmates on their works by creating "issues" in his/her github corresponding repository.
