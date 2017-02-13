@@ -51,21 +51,21 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 ---  
 |Basic Drawing, use of shapes, loading images. Functions include: fill, Color, Image, Shape|
 | **Reading/Watching:** <br> - [Video on p5.js by Daniel Shiffman] (https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) (**must watch: 1.2 and 1.3**) <br> - [Example on p5.js: Simple Shapes] (http://p5js.org/examples/hello-p5-simple-shapes.html) <br> -	[Syntax on p5.js] (http://p5js.org/examples/) (see: Load and Display Image) |  
-|**Peer-tutoring: Group 1 / Respondents: Group 10** , Topic: Loading with push() and pop() <br>-	Describe the syntax, and how to use it? <br>-	Sample code <br>-	Can you discuss your work with one or more aspects of Fazi and Fuller’s understanding of computational aesthetics?|
+|**Peer-tutoring: Group 1 / Respondents: Group 2** , Topic: Loading with push() and pop() <br>-	Describe the syntax, and how to use it? <br>-	Sample code <br>-	Can you discuss your work with one or more aspects of Fazi and Fuller’s understanding of computational aesthetics?|
 | **Weekly mini ex3: due week 9 - Design a throbber** <br> Check mini ex3 folder|
 - - - -
 | Class 05 > Week 9 [28-Feb]: Code and Interactivity. Tutorial session on Wed|
 ---  
 |Input/Output, event listener, conditional statements, sensing and functions|
 | **Reading/Watching:** <br> - [Video on p5.js: interactivity/conditional statements/functions by Daniel Shiffman] (https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) (**must watch: 2.1, 2.2, 3.1, 3.3, 3.4, 4.1, 4.2, 5.1, 5.2, 5.3**) <br> - [Tutorial: Interactivity1] (https://p5js.org/examples/hello-p5-interactivity-1.html) <br> -	[Tutorial: Interactivity2] (https://p5js.org/examples/hello-p5-interactivity-2.html)<br>- [Article: Cybernetics and the Pioneers of Computer Art by Thomas Dreher] (http://dreher.netzliteratur.net/4_Medienkunst_Kybernetike.html)|  
-|**Peer-tutoring: Group 2 / Respondents: Group 8** , Topic: Conditions with sound and video <br>-	How to incorporate sound and video in your sketch? <br>-	Sample code <br>-	Can you associate your work with one or more aspects of Fazi and Fuller’s understanding of computational aesthetics?|
+|**Peer-tutoring: Group 3 / Respondents: Group 4** , Topic: Conditions with sound and video <br>-	How to incorporate sound and video in your sketch? <br>-	Sample code <br>-	Can you associate your work with one or more aspects of Fazi and Fuller’s understanding of computational aesthetics?|
 | **Weekly mini ex4: due week 10 - Feedback loop** <br> Check mini ex4 folder |
 - - - -
 | Class 06 > Week 10 [7-Mar]: Code and Language. Tutorial session on Wed|
 ---  
 |text, typography, arrays and randomness|
 | **Reading/Watching:** <br> - [Syntax on p5.js] (https://p5js.org/reference/) (All functions within Typography category)<br> - [Tutorial on p5.js: Text and Type by Allison Parrish] (http://creative-coding.decontextualize.com/text-and-type/) <br> -	[Video on p5.js: Arrays by Daniel Shiffman] (https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) **(must watch 6.1 and 6.2)** <br> -	Article: [The aesthetics of materiality in electronic literature by Serge Bouchardon] (https://elmcip.net/critical-writing/aesthetics-materiality-electronic-literature)|  
-|**Peer-tutoring: Group 3 / Respondents: Group 7** , Topic: RiTa library <br>-	How to import and use RiTa library in your sketch? (see [ref1](https://www.youtube.com/watch?v=lIPEvh8HbGQ) and [ref2] (http://rednoise.org/rita/) ) <br>-	Sample colde <br> - Can you express your thoughts about your sample code in relation to the aesthetics of materiality in electronic literature|
+|**Peer-tutoring: Group 5 / Respondents: Group 6** , Topic: RiTa library <br>-	How to import and use RiTa library in your sketch? (see [ref1](https://www.youtube.com/watch?v=lIPEvh8HbGQ) and [ref2] (http://rednoise.org/rita/) ) <br>-	Sample colde <br> - Can you express your thoughts about your sample code in relation to the aesthetics of materiality in electronic literature|
 | **Weekly mini ex5: due week 11 - Electronic Literature** <br> Check mini ex5 folder |
 - - - -
 | Class 07 > Week 11 [13-Mar : MON NOT TUE]: Code and Generativty. Tutorial session on Wed|
@@ -80,14 +80,14 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 ---  
 |object and array, class, constructor|
 | **Reading/Watching:** <br> - [Video on p5.js: objects by Daniel Shiffman] (https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) **(must watch: 2.3, 5.4, 6.3-6.5)** <br> - [Tutorial on p5.js: Objects and Arrays of objects1] (https://p5js.org/examples/objects-objects.html)  <br> -	[Tutorial on p5.js: Objects and Arrays of objects2] (https://p5js.org/examples/objects-array-of-objects.html) <br> -	[Sample code: object, behavior and p5.dom library] (https://thimble.mozilla.org/en-US/anonymous/959d732f-ae03-466e-a9c3-80fc72331f01/92352) <br> - [Article: The Birth of Object Orientation: the Simula Languages by Ole-Johan Dhl (2001)] (http://www.olejohandahl.info/old/birth-of-oo.pdf)  |  
-|**Peer-tutoring: Group 4 / Respondents: Group 6** , Topic: p5.dom library <br>- How to import and use p5.dom library in your sketch? <br>- Provide sample code? <br>- How may we use different HTML5 objects in p5.dom to think about the aesthetics of objects? |
+|**Peer-tutoring: Group 7 / Respondents: Group 8** , Topic: p5.dom library <br>- How to import and use p5.dom library in your sketch? <br>- Provide sample code? <br>- How may we use different HTML5 objects in p5.dom to think about the aesthetics of objects? |
 | **Weekly mini ex7: due week 13 - Making form art with objects** <br> Check mini ex7 folder |
 - - - -
 | Class 09 > Week 13 [28-Mar]: Code and Algorithms. Tutorial session on Wed|
 ---  
 |flow chart, recipes, rules. Introduce final project brief|
 | **Reading/Watching:** <br> - [Video: Algorithms in pseudocode and flow diagrams] (https://www.youtube.com/watch?v=XDWw4Ltfy5w) <br> -	[Flow chart symbols by Robert L. Oakman] (http://www.wiley.com/college/busin/icmis/oakman/outline/chap05/slides/symbols.htm) <br> -	[Flow chart examples by Richa] (https://blog.udemy.com/flowchart-examples/)|  
-|**Peer-tutoring: Group 5** , Topic: JSON <br>- What is JSON? How to use JSON? <br>- Why is it important to know JSON? <br>- How may we understand data processing through JSON? <br>- sample code <br>- WWhat are the relations between data processing and datafied culture? |
+|**Peer-tutoring: Group x** , Topic: JSON <br>- What is JSON? How to use JSON? <br>- Why is it important to know JSON? <br>- How may we understand data processing through JSON? <br>- sample code <br>- WWhat are the relations between data processing and datafied culture? |
 | **Weekly mini ex8: due week 14 - Coding challenge** <br> Check mini ex8 folder |
 - - - -
 | Class 10 > Week 14 [4-Apr]: Code and Datafication. Tutorial session on Wed|
