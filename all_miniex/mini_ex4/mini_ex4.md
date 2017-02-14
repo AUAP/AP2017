@@ -20,4 +20,4 @@
 - A Short description of your work
 - How's your work demonstrate the notion of feedback?
 
-6) Provide peer-feedback to 2 of your classmates on their works by creating "issues" in his/her github corresponding repository. Write with the issue title "Feedback on mini_ex(?) by (YOUR FULL NAME)"3) Re-design an animated throbber, and then upload to Github under a folder called mini_ex3.
+6) Provide peer-feedback to 2 of your classmates on their works by creating "issues" in his/her github corresponding repository. Write with the issue title "Feedback on mini_ex(?) by (YOUR FULL NAME)"
