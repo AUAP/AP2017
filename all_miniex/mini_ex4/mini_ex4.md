@@ -17,7 +17,6 @@
 5) Create a readme file (README.md) and upload to the same mini_ex4 directory. The readme file should address the followings:
 
 - The title of your work
-- A Short description of your work
-- How's your work demonstrate the notion of feedback?
+- A Short description of your work and tell us how your work demonstrats the notion of "feedback" or "cybernetics"
 
 6) Provide peer-feedback to 2 of your classmates on their works by creating "issues" in his/her github corresponding repository. Write with the issue title "Feedback on mini_ex(?) by (YOUR FULL NAME)"
