@@ -136,6 +136,18 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 - The more you practice, the more you will get out of the course. 
 - The aims of having weekly mini exercises are to encourage experimentation, practice programming and stimulate thinking, therefore there is no grade for this.
 
+## Peer tutoring/ respondents format
+-  Within 20 mins presentation (peer tutoring)
+  .. Technical understanding (provide sample code)
+  .. Teaching (able to describe/speak about code with your language)
+  .. Articulation (able to apply and elaborate on how you do it)
+  .. Think through the notion of aesthetics
+
+- Within 10 mins response by respondents (feedback and ask questions)
+  .. Demonstrate your understanding of the assigned theme
+  .. Set some questions in mind and lead the discussion
+
+
 ##RULES:
 1. To pass the participation requirement and to enter Exam A, you need to attend at least 75% of the course which means you can only skip maximum 3 classes and 3 tutorials.
 2. Weekly mini exercises is part of the course participation, those who fail to submit their work may incur a penality of absence in one class. 
