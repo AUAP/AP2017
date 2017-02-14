@@ -11,7 +11,7 @@
   - What constitutes a program?
   - Reflect on the notion of error (what is error to you?)
   
-4) Read [Error, the Unforeseen, and the Emergent (2007) by Tim Barker] (http://journal.media-culture.org.au/0710/03-barker.php), does it change your understanding of error? 
+4) Read [Error, the Unforeseen, and the Emergent (2007) by Tim Barker] (http://journal.media-culture.org.au/0710/03-barker.php), does it change your understanding of error? Perhaps we may think about the aesthetics of error?
 
 5) Provide peer-feedback to 2 of your classmates on their works by creating "issues" in his/her github corresponding repository. Write with the issue title "Feedback on mini_ex(?) by (YOUR FULL NAME)"
 
