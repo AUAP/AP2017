@@ -7,10 +7,10 @@
 ) 
 
 3)	Explore different sensing technologies such as video, sound, mouse and keyboard 
-a.	May be useful to include other library: https://github.com/processing/p5.js/wiki/Integrating-other-libraries 
-b.	Sound: https://p5js.org/reference/#/p5.SoundFile
-c.	Video with p5.dom library: https://p5js.org/examples/dom-video-capture.html and https://p5js.org/examples/dom-video.html 
-*The above a-c are just recommendation. Feel free to explore and experiment other functions and libraries.
+<br>a.	May be useful to include other library: https://github.com/processing/p5.js/wiki/Integrating-other-libraries 
+<br>b.	Sound: https://p5js.org/reference/#/p5.SoundFile
+<br>c.	Video with p5.dom library: https://p5js.org/examples/dom-video-capture.html and https://p5js.org/examples/dom-video.html 
+<br>*The above a-c are just recommendation. Feel free to explore and experiment other functions and libraries.
 
 4)	Design a sketch that demonstrates the control of information through feedback and loop, expressing Dreher’s notion of information aesthetics. Upload the final sketch to Github under a folder called "mini_ex4".
 
