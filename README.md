@@ -138,14 +138,14 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 
 ## Peer tutoring/ respondents format
 -  Within 20 mins presentation (peer tutoring)
-  .. Technical understanding (provide sample code)
-  .. Teaching (able to describe/speak about code with your language)
-  .. Articulation (able to apply and elaborate on how you do it)
-  .. Think through the notion of aesthetics
+ <br> .. Technical understanding (provide sample code)
+ <br>.. Teaching (able to describe/speak about code with your language)
+ <br> .. Articulation (able to apply and elaborate on how you do it)
+ <br> .. Think through the notion of aesthetics
 
 - Within 10 mins response by respondents (feedback and ask questions)
-  .. Demonstrate your understanding of the assigned theme
-  .. Set some questions in mind and lead the discussion
+ <br> .. Demonstrate your understanding of the assigned theme
+ <br> .. Set some questions in mind and lead the discussion
 
 
 ##RULES:
