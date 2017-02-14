@@ -14,4 +14,5 @@
 4) Read [Error, the Unforeseen, and the Emergent (2007) by Tim Barker] (http://journal.media-culture.org.au/0710/03-barker.php), does it change your understanding of error? 
 
 5) Provide peer-feedback to 2 of your classmates on their works by creating "issues" in his/her github corresponding repository. Write with the issue title "Feedback on mini_ex(?) by (YOUR FULL NAME)"
-<br> how to do a peer feedback? Check the slide in class03, we can use the framework of critique i.e describe > analysis > interpretation > Reflection.
+
+<br> !! how to do a peer feedback? Check the slide in class03, we can use the framework of critique i.e describe > analysis > interpretation > Reflection.
