@@ -3,11 +3,11 @@
 
 1)	Read the article [Cybernetics and the Pioneers of Computer Art by Thomas Dreher] (http://dreher.netzliteratur.net/4_Medienkunst_Kybernetike.html)
 
-2)	Read some projects that express the concept of feedback loop [here] (http://www.creativeapplications.net/processing/feedback-machines-mis-using-technology-non-linear-behavioural-systems
+2)	Take a look at some projects that express the concept of feedback loop [here] (http://www.creativeapplications.net/processing/feedback-machines-mis-using-technology-non-linear-behavioural-systems
 ) 
 
 3)	Explore different sensing technologies such as video, sound, mouse and keyboard 
-a.	May be useful – learn how to include other library: https://github.com/processing/p5.js/wiki/Integrating-other-libraries 
+a.	May be useful to include other library: https://github.com/processing/p5.js/wiki/Integrating-other-libraries 
 b.	Sound: https://p5js.org/reference/#/p5.SoundFile
 c.	Video with p5.dom library: https://p5js.org/examples/dom-video-capture.html and https://p5js.org/examples/dom-video.html 
 *The above a-c are just recommendation. Feel free to explore and experiment other functions and libraries.
@@ -18,5 +18,6 @@ c.	Video with p5.dom library: https://p5js.org/examples/dom-video-capture.html a
 
 - The title of your work
 - A Short description of your work
+- How's your work demonstrate the notion of feedback?
 
 6) Provide peer-feedback to 2 of your classmates on their works by creating "issues" in his/her github corresponding repository. Write with the issue title "Feedback on mini_ex(?) by (YOUR FULL NAME)"3) Re-design an animated throbber, and then upload to Github under a folder called mini_ex3.
