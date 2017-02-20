@@ -23,7 +23,7 @@ function draw() {
   background(0);
   textFont(myFont);
   writeText();  //function without an argument
-  displaychar()
+  displaychar();
 }
 
 function writeText() {
