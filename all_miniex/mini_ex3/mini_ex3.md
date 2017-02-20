@@ -13,3 +13,5 @@
 - How may we use programming to reflect and inquire digital (visual) culture?
 
 5) Provide peer-feedback to 2 of your classmates on their works by creating "issues" in his/her github corresponding repository. Write with the issue title "Feedback on mini_ex(?) by (YOUR FULL NAME)"
+
+!! how to do a peer feedback? Check the slide of class03, we can use the framework of critique i.e describe > analysis > interpretation > Reflection.
