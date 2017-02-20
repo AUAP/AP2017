@@ -63,7 +63,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 - - - -
 | Class 06 > Week 10 [7-Mar]: Code and Language. Tutorial session on Wed|
 ---  
-|text, typography, arrays and randomness|
+|text, typography, arrays, load external data|
 | **Reading/Watching:** <br> - [Syntax on p5.js] (https://p5js.org/reference/) (All functions within Typography category)<br> - [Tutorial on p5.js: Text and Type by Allison Parrish] (http://creative-coding.decontextualize.com/text-and-type/) <br> -	[Video on p5.js: Arrays by Daniel Shiffman] (https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) **(must watch 6.1 and 6.2)** <br> -	Article: [The aesthetics of materiality in electronic literature by Serge Bouchardon] (https://elmcip.net/critical-writing/aesthetics-materiality-electronic-literature)|  
 |**Peer-tutoring: Group 5 / Respondents: Group 6** , Topic: RiTa library <br>-	How to import and use RiTa library in your sketch? (see [ref1](https://www.youtube.com/watch?v=lIPEvh8HbGQ) and [ref2] (http://rednoise.org/rita/) ) <br>-	Sample colde <br> - Can you express your thoughts about your sample code in relation to the aesthetics of materiality in electronic literature|
 | **Weekly mini ex5: due week 11 - Electronic Literature** <br> Check mini ex5 folder |
