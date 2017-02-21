@@ -1,4 +1,4 @@
-** Q: How to resize an image? **
+**Q: How to resize an image?**
 
 A: You can try to use image function, see here: https://p5js.org/reference/#/p5/image
 I also find a pretty good site in explaining the transformation: http://genekogan.com/code/p5js-transformations/
