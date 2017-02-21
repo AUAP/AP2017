@@ -51,7 +51,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 ---  
 |Basic Drawing, use of shapes, loading images. Functions include: fill, Color, Image, Shape|
 | **Reading/Watching:** <br> - [Video on p5.js by Daniel Shiffman] (https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) (**must watch: 1.2 and 1.3**) <br> - [Example on p5.js: Simple Shapes] (http://p5js.org/examples/hello-p5-simple-shapes.html) <br> -	[Syntax on p5.js] (http://p5js.org/examples/) (see: Load and Display Image) |  
-|**Peer-tutoring: Group 1 / Respondents: Group 2** , Topic: Loading with push() and pop() <br>-	Describe the syntax, and how to use it? <br>-	Sample code <br>-	Can you discuss your work with one or more aspects of Fazi and Fuller’s understanding of computational aesthetics?|
+|**Peer-tutoring: Group 1 / Respondents: Group 2** , Topic: Loading with push() and pop() <br>-	Describe the syntax, and how to use it? (see [ref] (http://genekogan.com/code/p5js-transformations/) <br>-	Sample code <br>-	Can you discuss your work with one or more aspects of Fazi and Fuller’s understanding of computational aesthetics?|
 | **Weekly mini ex3: due week 9 - Design a throbber** <br> Check mini ex3 folder|
 - - - -
 | Class 05 > Week 9 [28-Feb]: Code and Interactivity. Tutorial session on Wed|
