@@ -1,3 +1,7 @@
+** Q: How to resize an image? **
+A: You can try to use image function, see here: https://p5js.org/reference/#/p5/image
+I also find a pretty good site in explaining the transformation: http://genekogan.com/code/p5js-transformations/
+
 **Q: Which editor you use? Can I use mine?**
 
 A: For my personal interest I use TextWrangler. Feel free to use any other editor that does the job. (P5.js editor is deprecated but you can still use it for free)
