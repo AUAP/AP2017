@@ -1,4 +1,5 @@
 **Q: I'm not sure I understand the last question: How may we use programming to reflect and inquire digital (visual) culture?**
+
 A: In general, how may you think about using programming (the practice part – the actual coding, planning and thinking) as a means of inquiry on border cultural issues (such as a throbber or imagine for other digital (visual) culture).
 
 **Q: How to resize an image?**
