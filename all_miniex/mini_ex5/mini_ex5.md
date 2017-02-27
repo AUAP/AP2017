@@ -10,7 +10,7 @@
 4) Design an electronic literature using found text and RiTa.js library. Upload your final sketch to Github under a directory called "mini_ex5".
 
 5) Create a readme file and upload to the same mini_ex5 directory. The readme file should address the followings:
-- Give a title to your piece and describe your program.
+- Give a title to your piece and describe your program with a screenshot.
 - What kind of functions you have used from RiTa library? 
 - Can you describe your experience in working with found text as the source materials? 
 - How might we think about the materiality of text/interface? How might we understand the “textual character” of the found text? (see the assigned class reading: https://elmcip.net/critical-writing/aesthetics-materiality-electronic-literature)
