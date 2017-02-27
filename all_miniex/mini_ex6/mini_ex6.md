@@ -12,5 +12,5 @@
 - What constitutes generativity?
 - What is the aesthetics of generativity? 
 
-5) Try to use the vocabulary within the article “Generative Art Theory” to provide peer-feedback to 2 of your classmates on their works in relation to complexity, systems and generativity. 
+5) Try to use the vocabulary within the article “Generative Art Theory” to provide peer-feedback to 2 of your classmates on their works in relation to complexity/systems/generativity. 
 Write with the issue title "Feedback on mini_ex(?) by (YOUR FULL NAME)"
