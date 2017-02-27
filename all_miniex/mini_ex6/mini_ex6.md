@@ -9,6 +9,7 @@
 
 4) Create a readme file and upload to the same mini_ex6 directory. The readme file should address the followings:
 - Give a title to your piece and describe your program with a screenshot.
+- What are the rules that you have employed in your program?
 - What constitutes generativity?
 - What is the aesthetics of generativity? 
 
