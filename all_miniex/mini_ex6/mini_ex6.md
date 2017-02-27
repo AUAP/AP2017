@@ -1,7 +1,7 @@
 
 #Weekly mini ex6: due week 12 - A Generative Program
 
-1) Read the article again <Generative Art Theory by Philip Galater> - check the reading on blackboard
+1) Read the article again "Generative Art Theory by Philip Galater" - check the reading on blackboard
 
 2) Design a generative program with at least 3 basic rules to allow your program to unfold and emerge over time.
 
