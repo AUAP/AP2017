@@ -4,4 +4,4 @@
 - Full screen mode (with windowWidth and windowHeight)
 - set up rules and conditions (if, else if)
 
-![ScreenShot] (Screen Shot 2017-02-20 at 7.05.59 PM.png)
+![ScreenShot] (Screen Shot 2017-02-27 at 3.13.31 PM.png)
