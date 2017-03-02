@@ -1,4 +1,4 @@
-**Q: I hope you can help me to get a better understanding of this feedback loop **
+**Q: I hope you can help me to get a better understanding of this feedback loop**
 
 A: To deal with the concept of feedback loop, I have the following questions would like to ask you:
 
