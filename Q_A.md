@@ -1,3 +1,9 @@
+**Q: I see that a lot of the others gets issues from you, and I would like that as well, since you are the most qualified candidate. So I just want to be sure that its not a mistake :-)**
+
+A: True as it is difficult to reach out everyone every week. Therefore, my plan is to reach out every 2 groups each week so as to make sure by the end of the course everyone will get at least one/two feedback from me. But usually if I see there are some special issues I will address accordingly in a quick way. Actually, the feedback does not really mean for a particular person, what I actually want to cultivate is to let everyone see which / what perspective I am looking at and to ask questions so as to open up wider thinking on programming (learning through peer critique with each other). The problem I usually see is that most of you address the technical aspect, and how the work works computationally, but without much reflective articulation. The feedback is actually for everyone to see how one might relate a very concrete project to a wider discussion. As such, I actually see the feedback that I gave to a particular student could be used the same way to response to many of you. Do you see my point?
+
+I also see there are many great learners and reflexive practitioners in our class, and they are equally qualified, but of course, sometimes, the students are less patient to do a more thorough feedback. I actually see the students should also take up the responsibility.  It is equally important for everyone to check all the other works and README file to learn from one another. There are indeed many great pieces of work if you look at students’ work, concept and articulation. 
+
 **Q: I hope you can help me to get a better understanding of this feedback loop**
 
 A: To deal with the concept of feedback loop, I have the following questions would like to ask you:
