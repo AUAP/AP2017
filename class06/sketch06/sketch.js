@@ -3,8 +3,8 @@
 var angle;
 var getindex = 0;
 var myFont;
-var getlongstring = "";;
-var longstring;
+var getlongstring = "";
+var longstring = [];
 
 function preload() {
   myFont = loadFont("data/MorePerfectDOSVGA.ttf");
