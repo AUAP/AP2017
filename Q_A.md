@@ -1,4 +1,4 @@
-** Q: You write in the readme that we have to use found litteratur. But would it also be okay if [we] create our own narrative/story?**
+**Q: You write in the readme that we have to use found litteratur. But would it also be okay if [we] create our own narrative/story?**
 
 A: Sure :)  (as I just afraid it will be difficult for you to create text) The objective is more for you all to explore a new library and to think about what it means by materiality of medium. 
 
