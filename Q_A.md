@@ -1,3 +1,7 @@
+** Q: You write in the readme that we have to use found litteratur. But would it also be okay if [we] create our own narrative/story?**
+
+A: Sure :)  (as I just afraid it will be difficult for you to create text) The objective is more for you all to explore a new library and to think about what it means by materiality of medium. 
+
 **Q: I see that a lot of the others gets issues from you, and I would like that as well, since you are the most qualified candidate. So I just want to be sure that its not a mistake :-)**
 
 A: True as it is difficult to reach out everyone every week. Therefore, my plan is to reach out every 2 groups each week so as to make sure by the end of the course everyone will get at least one/two feedback from me. But usually if I see there are some special issues I will address accordingly in a quick way. Actually, the feedback does not really mean for a particular person, what I actually want to cultivate is to let everyone see which / what perspective I am looking at and to ask questions so as to open up wider thinking on programming (learning through peer critique with each other). The problem I usually see is that most of you address the technical aspect, and how the work works computationally, but without much reflective articulation. The feedback is actually for everyone to see how one might relate a very concrete project to a wider discussion. As such, I actually see the feedback that I gave to a particular student could be used the same way to response to many of you. Do you see my point?
