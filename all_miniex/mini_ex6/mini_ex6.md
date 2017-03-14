@@ -10,8 +10,6 @@
 4) Create a readme file and upload to the same mini_ex6 directory. The readme file should address the followings:
 - Give a title to your piece and describe your program with a screenshot.
 - What are the rules that you have employed in your program?
-- What constitutes generativity?
-- What is the aesthetics of generativity? 
+- By using some of the concepts from the article - Generative Art Theory, can you discuss how is your program expressed the notion of generativity? (such as authorship/nonhuman creation/autonomous system/Complexity/Emergent behaviour etc) 
 
-5) Try to use the vocabulary within the article “Generative Art Theory” to provide peer-feedback to 2 of your classmates on their works in relation to complexity/systems/generativity. 
-Write with the issue title "Feedback on mini_ex(?) by (YOUR FULL NAME)"
+5) Try to use the vocabulary within the article “Generative Art Theory” to provide peer-feedback to 2 of your classmates on their works. Write with the issue title "Feedback on mini_ex(?) by (YOUR FULL NAME)"
