@@ -7,7 +7,8 @@ var getlongstring = "";
 var longstring;
 
 function preload() {
-  myFont = loadFont("data/MorePerfectDOSVGA.ttf");
+ //  myFont = loadFont("data/MorePerfectDOSVGA.ttf");
+  myFont = loadFont("data/Megrim.ttf");
   longstring = loadStrings("data/questions.txt"); 
 }
 
