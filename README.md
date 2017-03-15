@@ -6,28 +6,28 @@
 
 class detail: backup: http://piratepad.net/ep/pad/view/5apH3XyWVk/latest / Google doc: https://docs.google.com/document/d/1s3XPAwa2uYlnR45FLoZHyaXnG63tANp_AeF6ZHlAGuw/edit / http://piratepad.net/5apH3XyWVk
 
-##OUTLINE:  
+## OUTLINE:  
 “Aesthetic Programming” is a practice-based course requires no prior programming experience but an interest to explore the relationship between art, design, technology and culture within the context of software studies. The course introduces coding as an aesthetic and critical endeavour beyond its functional application. It explores coding as a practice of thinking with and in the world, and understanding the complex computational procedures that underwrite our experiences and realities in digital culture. Through coding practice, students are able to contextualize, conceptualize, articulate, design and write a piece of software. Emphasis is placed on the student acquiring practical skills of expression through an introduction to programming, and this course uses [P5.js] (https://p5js.org/) primarily, which serves as a foundation for further courses on Digital Design.   
   
 The course is designed to complement the parallel course in SOFTWARE STUDIES where further critical work will be developed and expanded but without losing sight of coding as critical work in itself. Examples of artists and designers will be introduced that work with coding as their expressive material.   
 
-##TASKS:   
+## TASKS:   
 1. Individual weekly mini exercises + peer feedback 
 2. Peer-tutoring/Peer-feedback: within 30 mins in-class presentation with respondents 
 3. FINAL group project - in the form of a “readme” and a “runme” (software) packaged + in class presentation 
 4. Oral exam (Date: to be confirmed)
 
-##Other learning support environment:
+## Other learning support environment:
 1. Weekly 2 hours tutorial session (every Wed - Mandatory)
 2. Weekly 4 hours shut up+code or code study group discussion (every Friday 10.00-14.00- Optional in 5361-135)
 
-##LEARNING OUTCOMES:
+## LEARNING OUTCOMES:
 1. Learn basic concepts in computer programming, such as structures, functions, arrays, conditional statements, objects, and interactivity.
 2. Design and develop computational artefacts.
 3. Integrate practical and theoretical skills to articulte and develop computational artefacts.
 4. Recognize coding practice as a way of thinking and inquiry to understand wider cultural systems (computational thinking).
 
-##CLASS SCHEDULE:
+## CLASS SCHEDULE:
 
 | Class 01 > Week 5: No physical class. No tutorial session |
 ---  
@@ -117,20 +117,20 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 ---  
 |Final evaluation and reflection, preparation for the exam|
 
-##CORE REFERENCES:  
+## CORE REFERENCES:  
 - Daniel Shiffman, Learning Processing: A Beginner’s Guide to Programming Images, Animations, and Interaction, Morgan Kaufmann 2015 (Second Edition)
 -	Getting Started with p5.js: Making interactive graphics in Javascript and Processing (Make) by Lauren McCarthy, Casey Reas and Ben Fry
 -	[Text and source code: Coding Projects with p5.js by Catherine Leung] (https://cathyatseneca.gitbooks.io/coding-projects-with-p5-js/)
 -	[Video: Foundations of Programming in Javascript - p5.js Tutorial by Daniel Shiffman]	(https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) 
 -	[Video: Crockford on Javascript (more historical context)] (https://www.youtube.com/watch?v=JxAXlJEmNMg&list=PLK2r_jmNshM9o-62zTR2toxyRlzrBsSL2) 
 
-##TURNING IN YOUR Mini Ex:
+## TURNING IN YOUR Mini Ex:
 - Create a README.md for each mini exercise, indicating which mini ex and the topic of the mini ex. Please also include the name of your sketch and a short description of the sketch (for example, what do you want to explore? How does your sketch work?).
 - Take a screen shot of your program that would best represent your work (include in your README.md)
 - For each mini exercise, there should be one sketch folder (include your js sketch) as well as a README.md
 - Make sure the sketch folder contains necessary library, file and correct directory. It should be able to run on a github server through a web browser. 
 
-##WHY having mini exercises:
+## WHY having mini exercises:
 - It is absolutely fine if the program is a simple one and not having a "well designed" screen. Just feel free to explore different features and functions in programming. 
 - Please make use of your peers to learn different syntax, functions and operators and to ask questions.
 - The more you practice, the more you will get out of the course. 
@@ -148,6 +148,6 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
  <br> .. Set some questions in mind and lead the discussion
 
 
-##RULES:
+## RULES:
 1. To pass the participation requirement and to enter Exam A, you need to attend at least 75% of the course which means you can only skip maximum 3 classes and 3 tutorials.
 2. Weekly mini exercises is part of the course participation, those who fail to submit their work may incur a penality of absence in one class. 
