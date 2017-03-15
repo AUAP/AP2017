@@ -35,6 +35,6 @@ function draw() {
 }
 
 function drawSomething(x, y) {   // total horizontal ellipses (x axis = width/50); total vertical ellipses 19 (y axis = height/50) ) x2 ellipses (draw 2 ellipses at a time, see below) 
-  ellipse(x+50, y+25, 50*r, 50*r);  //try to change with rect to see the effect
+  rect(x+50, y+25, 50*r, 50*r);  //try to change with rect to see the effect
   ellipse(x+25, y+50, 50*r, 50*r);
 }
