@@ -106,8 +106,8 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 - Final evaluation and reflection, preparation for the exam
 
 
-
-
+<br>
+<br>
 ## CORE REFERENCES:  
 - Daniel Shiffman, Learning Processing: A Beginner’s Guide to Programming Images, Animations, and Interaction, Morgan Kaufmann 2015 (Second Edition)
 -	Getting Started with p5.js: Making interactive graphics in Javascript and Processing (Make) by Lauren McCarthy, Casey Reas and Ben Fry
