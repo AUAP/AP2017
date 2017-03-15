@@ -69,19 +69,18 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 | **Weekly mini ex5: due week 11 - Electronic Literature** <br> Check mini ex5 folder |
 - - - -
 ## Class 07 > Week 11 [15-Mar : WED NOT TUE/@ 8-11 in 5361-135]: Code and Generativty. Tutorial session on FRI
----  
 ### Unpredictability, randomness, loop, rules
 ### Guest Lecture on Generatviity by Tobias Stenberg Christensen
 - **Reading/Watching:** <br> - [Video: How to draw with Code by Casey Reas] (https://www.youtube.com/watch?v=_8DMEHxOLQE) <br> - Article: Generative Art Theory (2016) by Philip Galanter (check blackboard) <br> -	[Video: Factal Trees – Recursive by Daniel Shiffman] (https://www.youtube.com/watch?v=0jjeOYMjmDU)
 - **No Peer Tutoring**
 - **Weekly mini ex6: due week 12 - Generative art/program** <br> Check mini ex6 folder
 - - - -
-| Class 08 > Week 12 [21-Mar]: Code and Objects. Tutorial session on Wed|
----  
-|object and array, class, constructor|
-| **Reading/Watching:** <br> - [Video on p5.js: objects by Daniel Shiffman] (https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) **(must watch: 2.3, 5.4, 6.3-6.5)** <br> - [Tutorial on p5.js: Objects and Arrays of objects1] (https://p5js.org/examples/objects-objects.html)  <br> -	[Tutorial on p5.js: Objects and Arrays of objects2] (https://p5js.org/examples/objects-array-of-objects.html) <br> -	[Sample code: object, behavior and p5.dom library] (https://thimble.mozilla.org/en-US/anonymous/959d732f-ae03-466e-a9c3-80fc72331f01/92352) <br> - [Article: The Birth of Object Orientation: the Simula Languages by Ole-Johan Dhl (2001)] (http://www.olejohandahl.info/old/birth-of-oo.pdf)  |  
-|**Peer-tutoring: Group 7 / Respondents: Group 8** , Topic: p5.dom library <br>- How to import and use p5.dom library in your sketch? <br>- Provide sample code? <br>- How may we use different HTML5 objects in p5.dom to think about the aesthetics of objects? |
-| **Weekly mini ex7: due week 13 - Making form art with objects** <br> Check mini ex7 folder |
+## Class 08 > Week 12 [21-Mar]: Code and Objects. Tutorial session on Wed
+ 
+### object and array, class, constructor
+- **Reading/Watching:** <br> - [Video on p5.js: objects by Daniel Shiffman] (https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) **(must watch: 2.3, 5.4, 6.3-6.5)** <br> - [Tutorial on p5.js: Objects and Arrays of objects1] (https://p5js.org/examples/objects-objects.html)  <br> -	[Tutorial on p5.js: Objects and Arrays of objects2] (https://p5js.org/examples/objects-array-of-objects.html) <br> -	[Sample code: object, behavior and p5.dom library] (https://thimble.mozilla.org/en-US/anonymous/959d732f-ae03-466e-a9c3-80fc72331f01/92352) <br> - [Article: The Birth of Object Orientation: the Simula Languages by Ole-Johan Dhl (2001)] (http://www.olejohandahl.info/old/birth-of-oo.pdf)  
+- **Peer-tutoring: Group 7 / Respondents: Group 8** , Topic: p5.dom library <br>- How to import and use p5.dom library in your sketch? <br>- Provide sample code? <br>- How may we use different HTML5 objects in p5.dom to think about the aesthetics of objects? 
+- **Weekly mini ex7: due week 13 - Making form art with objects** <br> Check mini ex7 folder 
 - - - -
 | Class 09 > Week 13 [28-Mar]: Code and Algorithms. Tutorial session on Wed|
 ---  
