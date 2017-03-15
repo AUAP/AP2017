@@ -1,4 +1,4 @@
-#Code and Generativity
+# Code and Generativity
 
 - revisit for loop (a loop within a loop)
 - Full screen mode (with windowWidth and windowHeight)
