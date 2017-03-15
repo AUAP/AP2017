@@ -1,4 +1,4 @@
-#code and language
+# code and language
 
 - Font (load font)
 - loadStrings (a txt file with data)
