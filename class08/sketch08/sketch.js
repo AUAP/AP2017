@@ -3,8 +3,10 @@
 // step 1. Declare Objects
 var car = [];
 var button;
+var bg;
 
 function setup() {
+ bg = loadImage("data/road.jpg");
  createCanvas(windowWidth, windowHeight);
  
 //step 2. Initialize object 
@@ -14,7 +16,7 @@ car[1] = new Car(color(0,0,255), 20, 20, 300, 10);
 }
 
 function draw() {
- background(255);
+ background(bg);
  button = createButton('add');
  button.position(0,0);
  button.mousePressed(add);
