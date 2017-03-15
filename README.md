@@ -104,7 +104,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 
 ### Class 13 > Week 20 [16-May]: Final Final. No Tutorial session
 - Final evaluation and reflection, preparation for the exam
-
+- - - 
 
 <br>
 <br>
