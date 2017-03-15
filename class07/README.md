@@ -6,4 +6,7 @@
 
 link: https://auap.github.io/AP2017/class07/sketch07/index.html
 
-![ScreenShot] (Screen Shot 2017-02-27 at 3.13.31 PM.png)
+![ScreenShot] ()
+
+
+![ScreenShot](https://raw.github.com/AUAP/AP2017/master/class07/Screen Shot 2017-02-27 at 3.13.31 PM.png)
