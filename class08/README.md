@@ -5,4 +5,4 @@
 
 link: https://auap.github.io/AP2017/class08/sketch08/index.html
 
-![ScreenShot](https://cdn.rawgit.com/AUAP/AP2017/8df60a8e/class08/Screen Shot 2017-03-15 at 6.19.32 PM.png)
+![ScreenShot](https://cdn.rawgit.com/AUAP/AP2017/01effa39/class08/Screen%20Shot%202017-03-15%20at%206.19.32%20PM.png)
