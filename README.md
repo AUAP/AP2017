@@ -87,28 +87,30 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 - **No Peer-tutoring**
 - **Weekly mini ex9: due week 15 - Utilizing APIs** <br> Check mini ex9 folder 
 - - - -
-## NO PHYSICAL CLASS on week 15-16 >> Preparation for your final presentation!! 
----  
-## ***Upload your group project’s synopsis by 21 Apr 2017 day end. ***
-## ***No Tutorial on week 15 but there will be tutorial on week 16***
+## NO PHYSICAL CLASS on week 15-16 >> Preparation for your final presentation!!  
+- **Upload your group project’s synopsis by 21 Apr 2017 day end.**
+- **No Tutorial on week 15 but there will be tutorial on week 16**
 - - - -
 ## Class 11 > Week 17 [25-Apr]: Preparation for Group tutorials (half day). Tutorial session on Wed 
-### Feedback on draft synopsis. Groups will present to each other and discuss progression
+- Feedback on draft synopsis. Groups will present to each other and discuss progression
 - **No Peer-tutoring**
 - - - -
 ## NO CLASS on week 18 >> Preparation for your final presentation!! Tutorial Session on Wed 
+
 - - - -
 ## Class 12 > Week 19 [9-May]: Final project - group presentation (half day). No Tutorial session
+
 - - - -
+
 ## Class 13 > Week 20 [16-May]: Final Final. No Tutorial session
-### Final evaluation and reflection, preparation for the exam
+- Final evaluation and reflection, preparation for the exam
 
 ## CORE REFERENCES:  
 - Daniel Shiffman, Learning Processing: A Beginner’s Guide to Programming Images, Animations, and Interaction, Morgan Kaufmann 2015 (Second Edition)
 -	Getting Started with p5.js: Making interactive graphics in Javascript and Processing (Make) by Lauren McCarthy, Casey Reas and Ben Fry
--	[Text and source code: Coding Projects with p5.js by Catherine Leung] (https://cathyatseneca.gitbooks.io/coding-projects-with-p5-js/)
--	[Video: Foundations of Programming in Javascript - p5.js Tutorial by Daniel Shiffman]	(https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) 
--	[Video: Crockford on Javascript (more historical context)] (https://www.youtube.com/watch?v=JxAXlJEmNMg&list=PLK2r_jmNshM9o-62zTR2toxyRlzrBsSL2) 
+-	[Text and source code: Coding Projects with p5.js by Catherine Leung](https://cathyatseneca.gitbooks.io/coding-projects-with-p5-js/)
+-	[Video: Foundations of Programming in Javascript - p5.js Tutorial by Daniel Shiffman](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) 
+-	[Video: Crockford on Javascript (more historical context)](https://www.youtube.com/watch?v=JxAXlJEmNMg&list=PLK2r_jmNshM9o-62zTR2toxyRlzrBsSL2) 
 
 ## TURNING IN YOUR Mini Ex:
 - Create a README.md for each mini exercise, indicating which mini ex and the topic of the mini ex. Please also include the name of your sketch and a short description of the sketch (for example, what do you want to explore? How does your sketch work?).
