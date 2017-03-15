@@ -70,11 +70,11 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 - - - -
 ## Class 07 > Week 11 [15-Mar : WED NOT TUE/@ 8-11 in 5361-135]: Code and Generativty. Tutorial session on FRI
 ---  
-### Unpredictability, randomness, loop, rules|
-### Guest Lecture on Generatviity by Tobias Stenberg Christensen|
+### Unpredictability, randomness, loop, rules
+### Guest Lecture on Generatviity by Tobias Stenberg Christensen
 - **Reading/Watching:** <br> - [Video: How to draw with Code by Casey Reas] (https://www.youtube.com/watch?v=_8DMEHxOLQE) <br> - Article: Generative Art Theory (2016) by Philip Galanter (check blackboard) <br> -	[Video: Factal Trees – Recursive by Daniel Shiffman] (https://www.youtube.com/watch?v=0jjeOYMjmDU)
-- ** No Peer Tutoring**
-- **Weekly mini ex6: due week 12 - Generative art/program** <br> Check mini ex6 folder |
+- **No Peer Tutoring**
+- **Weekly mini ex6: due week 12 - Generative art/program** <br> Check mini ex6 folder
 - - - -
 | Class 08 > Week 12 [21-Mar]: Code and Objects. Tutorial session on Wed|
 ---  
