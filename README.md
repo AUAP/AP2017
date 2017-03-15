@@ -105,6 +105,9 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 ## Class 13 > Week 20 [16-May]: Final Final. No Tutorial session
 - Final evaluation and reflection, preparation for the exam
 
+
+
+
 ## CORE REFERENCES:  
 - Daniel Shiffman, Learning Processing: A Beginner’s Guide to Programming Images, Animations, and Interaction, Morgan Kaufmann 2015 (Second Edition)
 -	Getting Started with p5.js: Making interactive graphics in Javascript and Processing (Make) by Lauren McCarthy, Casey Reas and Ben Fry
