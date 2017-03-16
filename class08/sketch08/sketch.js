@@ -5,13 +5,15 @@ var car = [];
 var button;
 var bg;
 
+function preload() {
+  bg = loadImage("data/road.jpg");
+}
 function setup() {
- bg = loadImage("data/road.jpg");
  createCanvas(windowWidth, windowHeight);
  
 //step 2. Initialize object 
-car[0] = new Car(color(255,0,0), 10, 10, 100, 20);
-car[1] = new Car(color(0,0,255), 20, 20, 300, 10);
+ car[0] = new Car(color(255,0,0), 10, 10, 100, 20);
+ car[1] = new Car(color(0,0,255), 20, 20, 300, 10);
 
 }
 
