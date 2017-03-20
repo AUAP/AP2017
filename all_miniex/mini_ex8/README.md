@@ -1,4 +1,4 @@
-#Weekly mini ex8: due week 14 - Code challenge and a flow chart
+#Weekly mini ex8: due week 14 - Coding challenge and a flow chart
 
 1) Select any one of the [coding challenge video](https://www.youtube.com/watch?v=17WoOqgXsRM&list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH), and follow the tutorial and experiment in p5.js. 
 
