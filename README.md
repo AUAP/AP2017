@@ -77,7 +77,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 - - - 
 ### Class 09 > Week 13 [28-Mar]: Code and Algorithms. Tutorial session on Wed
 #### flow chart, recipes, rules. Introduce final project brief
-- **Reading/Watching:** <br> - [Video: Algorithms in pseudocode and flow diagrams](https://www.youtube.com/watch?v=XDWw4Ltfy5w) <br>[Video: What is an algorithm](https://www.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms/v/what-are-algorithms)<br> -	[Flow chart symbols by Robert L. Oakman](http://www.wiley.com/college/busin/icmis/oakman/outline/chap05/slides/symbols.htm) <br> -	[Flow chart examples by Richa](https://blog.udemy.com/flowchart-examples/)|  
+- **Reading/Watching:** <br> - [Video: Algorithms in pseudocode and flow diagrams](https://www.youtube.com/watch?v=XDWw4Ltfy5w) <br>- [Video: What is an algorithm](https://www.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms/v/what-are-algorithms)<br> -	[Flow chart symbols by Robert L. Oakman](http://www.wiley.com/college/busin/icmis/oakman/outline/chap05/slides/symbols.htm) <br> -	[Flow chart examples by Richa](https://blog.udemy.com/flowchart-examples/)|  
 - **Peer-tutoring: Group x** , Topic: JSON <br>- What is JSON? How to use JSON? <br>- Why is it important to know JSON? <br>- How may we understand data processing through JSON? <br>- sample code <br>- WWhat are the relations between data processing and datafied culture? 
 - **Weekly mini ex8: due week 14 - Coding challenge** <br> Check mini ex8 folder 
 - - - 
