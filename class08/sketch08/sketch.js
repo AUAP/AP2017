@@ -37,25 +37,29 @@ function add() {
 function Car(getcolor, speed, xpos, ypos, size) {
 	this.getcolor = getcolor;
 	this.speed = speed;
-	this.xpos = xpos;
-	this.ypos = ypos;
+	this.pos = createVector(xpos, ypos);
 	this.size = size;
 	
 	this.display = function() {
 		stroke(0);
  		fill(this.getcolor);
-  		rect(this.xpos,this.ypos,this.size,this.size);
+  		rect(this.pos.x,this.pos.y,this.size,this.size);
 	}
 	
 	this.drive = function() {
-		this.xpos = this.xpos + this.speed;
- 		if (this.xpos > width) {
- 			 this.xpos = 0;
+		this.pos.x = this.pos.x + this.speed;
+ 		if (this.pos.x > width) {
+ 			 this.pos.x = 0;
  		} 
 
 	}
 	
 }
+
+
+
+
+
 
 
 
