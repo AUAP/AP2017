@@ -96,13 +96,12 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 - **No Peer-tutoring**
 - - - 
 ### NO CLASS on week 18 >> Preparation for your final presentation!! Tutorial Session on Wed 
-
+### NO CLASS on week 19 >> Preparation for your final presentation!! No Tutorial Session
 - - - 
-### Class 12 > Week 19 [9-May]: Final project - group presentation (half day). No Tutorial session
-
+### Class 12 > Week 20 [16-May]: Final project - group presentation (half day). No Tutorial session
 - - - 
 
-### Class 13 > Week 20 [16-May]: Final Final. No Tutorial session
+### Class 13 > Week 20 [19-May]/FRI: Final Final (09.00-12.00). No Tutorial session 
 - Final evaluation and reflection, preparation for the exam
 - - - 
 
