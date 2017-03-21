@@ -62,7 +62,8 @@ function Car(getcolor, speed, xpos, ypos, size) {
 }
 
 function calcSpeed(delta, speed) {
-	return (speed * delta);}  
-
+	return (speed * delta);
+}  
+}
 
 
