@@ -14,8 +14,7 @@ function setup() {
  
 //step 2. Initialize object 
  car[0] = new Car(color(255,0,0), 2, 10, 100, 20);
- //car[1] = new Car(color(0,0,255), 4, 20, 300, 10);
- append(car, new Car(color(0,0,255), 4, 20, 300, 10));  //tried out the append feature which did the similar job: create a new object
+ car[1] = new Car(color(0,0,255), 4, 20, 300, 10);
 }
 
 function draw() {
