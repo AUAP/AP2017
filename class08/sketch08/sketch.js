@@ -39,7 +39,7 @@ function Car(getcolor, speed, xpos, ypos, size) {
 	this.speed = speed;
 	this.pos = createVector(xpos, ypos);
 	this.size = size;
-	this.tick = new Date().getTime();
+	this.tick = Date.now();
 	
 	this.display = function() {
 		stroke(0);
@@ -49,7 +49,7 @@ function Car(getcolor, speed, xpos, ypos, size) {
 	
 	this.drive = function() {
 	
-		this.tock = new Date().getTime();
+		this.tock = Date.now();
 		this.delta = this.tock - this.tick;
 		
 		this.pos.x = this.pos.x + calcSpeed(this.delta, this.speed);
@@ -62,19 +62,8 @@ function Car(getcolor, speed, xpos, ypos, size) {
 }
 
 function calcSpeed(delta, speed) {
-	return (speed * delta) * (6/100);
+	return (speed * delta) * (5/100);  //5 is the frameRate that i want
 }
-
-
-
-
-
-
-
-
-
-
-
 
 
 
