@@ -35,6 +35,9 @@ function draw() {
 function add() {
 
   car[car.length] = new Car(color(random(155,255)), random(2,10), random(10,20), random(10,500), random(30));
+	
+  //append can be used as well, which has the same effect as line 37	
+  //append(car,  new Car(color(random(155,255)), random(2,10), random(10,20), random(10,500), random(30)));
 }
 
 function Car(getcolor, speed, xpos, ypos, size) {
