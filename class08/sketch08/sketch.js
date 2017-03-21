@@ -62,8 +62,7 @@ function Car(getcolor, speed, xpos, ypos, size) {
 }
 
 function calcSpeed(delta, speed) {
-	return (speed * delta);  //5 is the frameRate that i want
-}
+	return (speed * delta);}  
 
 
 
