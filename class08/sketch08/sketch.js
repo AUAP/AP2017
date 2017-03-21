@@ -12,8 +12,8 @@ function setup() {
  createCanvas(windowWidth, windowHeight);
  
 //step 2. Initialize object 
- car[0] = new Car(color(255,0,0), 1, 10, 100, 20);
- car[1] = new Car(color(0,0,255), 2, 20, 300, 10);
+ car[0] = new Car(color(255,0,0), 0.05, 10, 100, 20);
+ car[1] = new Car(color(0,0,255), 0.1, 20, 300, 10);
 
 }
 
@@ -31,7 +31,7 @@ function draw() {
 }
 
 function add() {
-  car[car.length] = new Car(color(random(155,255)), random(0.1,1.5), random(10,20), random(10,500), 30);
+  car[car.length] = new Car(color(random(155,255)), random(0.05,0.1), random(10,20), random(10,500), 30);
 }
 
 function Car(getcolor, speed, xpos, ypos, size) {
@@ -52,7 +52,7 @@ function Car(getcolor, speed, xpos, ypos, size) {
 		this.tock = Date.now();
 		this.delta = this.tock - this.tick;
 		
-		this.pos.x = this.pos.x + (this.delta*this.speed);
+		this.pos.x = this.pos.x + calcSpeed(this.delta, this.speed);
  		if (this.pos.x > width) {
  			 this.pos.x = 0;
  		} 
@@ -60,5 +60,10 @@ function Car(getcolor, speed, xpos, ypos, size) {
 	}
 	
 }
+
+function calcSpeed(getdelta, getspeed) {
+	return (getspeed * getdelta);  //5 is the frameRate that i want
+}
+
 
 
