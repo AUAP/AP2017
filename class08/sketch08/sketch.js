@@ -12,9 +12,8 @@ function setup() {
  createCanvas(windowWidth, windowHeight);
  
 //step 2. Initialize object 
- car[0] = new Car(color(255,0,0), 10, 10, 100, 200);
+ car[0] = new Car(color(255,0,0), 10, 10, 100, 20);
  car[1] = new Car(color(0,0,255), 20, 20, 300, 10);
- car[2] = new Car(color(0, 200, 200, 20), 30, 40, 200, 80); 
 
 }
 
@@ -40,6 +39,7 @@ function Car(getcolor, speed, xpos, ypos, size) {
 	this.speed = speed;
 	this.pos = createVector(xpos, ypos);
 	this.size = size;
+	this.tick = new Date().getTime();
 	
 	this.display = function() {
 		stroke(0);
@@ -48,14 +48,26 @@ function Car(getcolor, speed, xpos, ypos, size) {
 	}
 	
 	this.drive = function() {
-		this.pos.x = this.pos.x + this.speed;
+	
+		this.tock = new Date().getTime();
+		this.delta = this.tock - this.tick;
+		
+		this.pos.x = this.pos.x + calcSpeed(this.delta, this.speed);
  		if (this.pos.x > width) {
  			 this.pos.x = 0;
  		} 
-
+		this.tick = this.tock;
 	}
 	
 }
+
+function calcSpeed(delta, speed) {
+	return (speed * delta) * (6/100);
+}
+
+
+
+
 
 
 
