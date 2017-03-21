@@ -45,8 +45,6 @@ function Car(getcolor, speed, xpos, ypos, size) {
 		stroke(0);
  		fill(this.getcolor);
   		rect(this.pos.x,this.pos.y,this.size,this.size);
-		ellipse(this.pos.x,this.pos.y,this.size,this.size);
-		triangle(this.pos.x,this.pos.y,this.size,this.size, 50, 50);
 	}
 	
 	this.drive = function() {
