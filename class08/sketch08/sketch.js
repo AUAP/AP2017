@@ -34,10 +34,6 @@ function add() {
   car[car.length] = new Car(color(random(155,255)), random(0.1,1.5), random(10,20), random(10,500), 30);
 }
 
-function calcSpeed(delta, speed) {
-	return (speed * delta);
-}  
-
 function Car(getcolor, speed, xpos, ypos, size) {
 	this.getcolor = getcolor;
 	this.speed = speed;
@@ -56,7 +52,7 @@ function Car(getcolor, speed, xpos, ypos, size) {
 		this.tock = Date.now();
 		this.delta = this.tock - this.tick;
 		
-		this.pos.x = this.pos.x + calcSpeed(this.delta, this.speed);
+		this.pos.x = this.pos.x + (this.delta*this.speed);
  		if (this.pos.x > width) {
  			 this.pos.x = 0;
  		} 
@@ -64,8 +60,5 @@ function Car(getcolor, speed, xpos, ypos, size) {
 	}
 	
 }
-
-
-
 
 
