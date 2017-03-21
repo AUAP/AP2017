@@ -14,7 +14,7 @@ function setup() {
 //step 2. Initialize object 
  car[0] = new Car(color(255,0,0), 10, 10, 100, 20);
  car[1] = new Car(color(0,0,255), 20, 20, 300, 10);
- car[2] = new Car(color(0, 200, 200, 20), 30, 40, 200, 80); 
+ car[2] = new Car(color(0, 200, 200), 30, 40, 200, 80); 
 
 }
 
