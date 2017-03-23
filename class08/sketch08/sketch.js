@@ -13,7 +13,8 @@ function setup() {
  createCanvas(windowWidth, windowHeight);
  button = createButton('add');
  button.mousePressed(add);
-//step 2. Initialize object 
+	
+//step 2. Initialize object (constructor)
  car[0] = new Car(color(255,0,0), 10, 10, 100, 20);
  car[1] = new Car(color(0,0,255), 15, 20, 300, 10);
 
