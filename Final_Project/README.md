@@ -1,4 +1,4 @@
-# Final Group Project Brief for Aesthetic Programming 2017
+# Final Project Brief for Aesthetic Programming 2017
 
 ## Description:
 
