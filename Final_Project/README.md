@@ -27,7 +27,7 @@ To begin with, there are few tips may help you to come up with a project idea:
 
 ## Deliverable:
 
-1/ **RUNME:**  A piece of software written in p5.js, and it should be able to execute successfully in a web browser. 
+1/ **RUNME:**  A piece of software written in p5.js (or a combination of HTML/CSS/JS/P5.js), and it should be able to execute successfully in a web browser. 
 * Remember to include all external libraries and data such as images, font, text file, sound etc. Furthermore, if you have borrowed other sample code, please cite your sources in the code comments. 
 
 2/ **README:** A single word document within 6 pages.  The document includes a title, a screen shot, a flow chart, a synopsis, links to related projects (if there is any).  Regarding the synopsis, it should address at least the following questions:
