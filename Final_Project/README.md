@@ -52,21 +52,21 @@ Conduct a presentation within 10 mins with a software demo, articulating your wo
 ## Timeline:
 
 
-| Date         | Check point                                 | 
-| ------------ |:------------------------------------------- | 
-| 28-Mar (TUE) | Final project brief introduction            | 
-| 11-Apr (TUE) | Easter holiday                              |   
-| 12-Apr (WED) | Easter holiday                              | 
-| 18-Apr (TUE) | Easter holiday                              | 
-| 19-Apr (WED) | Tutorial session                            |   
-| 21-Apr (FRI) | Upload the draft project’s synopsis         | 
-| 24-Apr (MON) | Notification of group meeting schedule      | 
-| 25-Apr (TUE) | Face to face feedback on the draft synopsis | 
-| 26-Apr (WED) | Tutorial session                            | 
-| 2-May  (TUE) | No class (Prepare for your final project    | 
-| 3-May  (WED) | Tutorial session                            | 
-| 9-May  (TUE) | No class (Prepare for your final project    | 
-| 10-May (WED) | No Tutorial (Prepare for your final project)| 
-| 16-May (TUE) | FINAL GROUP PRESENTATION + SUBMISSION       | 
+| Date         | Check point                                  
+| ------------ |:-------------------------------------------  
+| 28-Mar (TUE) | Final project brief introduction             
+| 11-Apr (TUE) | Easter holiday                                 
+| 12-Apr (WED) | Easter holiday                               
+| 18-Apr (TUE) | Easter holiday                               
+| 19-Apr (WED) | Tutorial session                               
+| 21-Apr (FRI) | Upload the draft project’s synopsis          
+| 24-Apr (MON) | Notification of group meeting schedule       
+| 25-Apr (TUE) | Face to face feedback on the draft synopsis  
+| 26-Apr (WED) | Tutorial session                             
+| 2-May  (TUE) | No class (Prepare for your final project     
+| 3-May  (WED) | Tutorial session                             
+| 9-May  (TUE) | No class (Prepare for your final project     
+| 10-May (WED) | No Tutorial (Prepare for your final project) 
+| 16-May (TUE) | FINAL GROUP PRESENTATION + SUBMISSION        
 
 
