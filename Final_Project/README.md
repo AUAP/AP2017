@@ -27,16 +27,16 @@ To begin with, there are few tips may help you to come up with a project idea:
 
 ## Deliverable:
 
-1/ RUNME:  A piece of software written in p5.js, and it should be able to execute successfully in a web browser. 
+1/ **RUNME:**  A piece of software written in p5.js, and it should be able to execute successfully in a web browser. 
 * Remember to include all external libraries and data such as images, font, text file, sound etc. Furthermore, if you have borrowed other sample code, please cite your sources in the code comments. 
 
-2/ README: A single word document within 6 pages.  The document includes a title, a screen shot, a flow chart, a synopsis, links to related projects (if there is any).  Regarding the synopsis, it should address at least the following questions:
+2/ **README:** A single word document within 6 pages.  The document includes a title, a screen shot, a flow chart, a synopsis, links to related projects (if there is any).  Regarding the synopsis, it should address at least the following questions:
 -	What is your software about (short description: what is it and what do you want to explore)?
 -	How does it work?
 -	How has your work expressed the aesthetic of code/computational structure/computational culture? (You need to refer explicitly to any one of the assigned articles)
 -	Open question: How do you see the project as a critical work in itself?
 
-3/ Submission via Github: 
+3/ **Submission via Github:** 
 -	Submission channel: https://github.com/AUAP/AP2017
 -	Create a group folder under the existing one-“Final_Project” e.g group 1, group 2 …
 -	Put all the RUNME and README files inside your group folder
