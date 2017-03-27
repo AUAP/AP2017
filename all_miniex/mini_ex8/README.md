@@ -4,7 +4,7 @@
 
 2) You are required to **add a new function** based on the selected coding challenge. Draw a flow chart of the selected coding challenge together with your new function. Upload your sketch + a flow chart to the directory called "mini_ex8"
 
-3) Create a README file and upload the a directory called mini_ex8. The readme file should address the following: 
+3) Create a README file and upload to the same directory. The readme file should address the following: 
 - What is your selected coding challenge?
 - What function have you added?
 - What is the difficulty of this week mini exercise?  
