@@ -63,9 +63,9 @@ Conduct a presentation within 10 mins with a software demo, articulating your wo
 | Week 17.1 - 24-Apr (MON) | Notification of group meeting schedule       
 | Week 17.2 - 25-Apr (TUE) | **Face to face feedback/discussion on the draft synopsis**  
 | Week 17.3 - 26-Apr (WED) | **Tutorial session**                             
-| Week 18.2 - 2-May  (TUE) | No class (Prepare for your final project     
+| Week 18.2 - 2-May  (TUE) | No class (Prepare for your final project)     
 | Week 18.3 - 3-May  (WED) | **Tutorial session**                             
-| Week 19.2 - 9-May  (TUE) | No class (Prepare for your final project     
+| Week 19.2 - 9-May  (TUE) | No class (Prepare for your final project)     
 | Week 19.3 - 10-May (WED) | No Tutorial (Prepare for your final project) 
 | Week 20.2 - 16-May (TUE) | **FINAL GROUP PRESENTATION + SUBMISSION**        
 
