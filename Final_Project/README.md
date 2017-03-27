@@ -51,8 +51,9 @@ Conduct a presentation within 10 mins with a software demo, articulating your wo
 
 ## Timeline:
 
+
 | Date         | Check point                                 | 
-| -------------|:-------------------------------------------:| 
+| ------------ |:------------------------------------------- | 
 | 28-Mar (TUE) | Final project brief introduction            | 
 | 11-Apr (TUE) | Easter holiday                              |   
 | 12-Apr (WED) | Easter holiday                              | 
