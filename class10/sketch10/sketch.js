@@ -10,7 +10,7 @@ sketch09
 */
 
 var url = 'http://api.nytimes.com/svc/search/v2/articlesearch.json';
-var apikey ='INPUT YOUR OWN KEY';
+var apikey ='7b179b518250f1a0b4e4ff0ca2ac43a5:10:60844236';
 var request; //the full request API with your critera
 var freq; //the returned hits
 var barsize = 25; //size of the bar chart
