@@ -16,6 +16,6 @@
 3) Upload your sketch in a directory called "miniex9. Create a README file and upload to the same directory. The readme file should address the following: 
 - Which API have you choosen? and Why? 
 - Can you describe your process of making this mini exercise in terms of acquiring, processing, using and representing data?
-- How do you see the aesthetics of (big) data? 
+- What is your reflection on the aesthetics of (big) data? 
 
 4)	Provide peer-feedback to 2 of your classmates on their works. Write with the issue title "Feedback on mini_ex(?) by (YOUR FULL NAME)".
