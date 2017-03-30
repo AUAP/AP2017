@@ -6,4 +6,4 @@
 - Array
 - Match
 
-![ScreenShot] (Screen Shot 2017-02-20 at 7.05.59 PM.png)
+![ScreenShot] (https://cdn.rawgit.com/AUAP/AP2017/73f941c1/class06/Screen%20Shot%202017-02-20%20at%207.05.59%20PM.png)
