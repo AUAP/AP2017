@@ -5,7 +5,7 @@
 2) Read 'The seven stages of Visualizing data' by Ben Fry - check blackboard
 
 3) Design a program that utilizes a web API (below is just a suggestion, and you can search for others). You need to consider the process that Fry has mentioned: acquire, parse, filter, mine and represent. (I leave out the last two stages as it may be too much for a weekly mini ex)
-	- (Open Weather)[https://www.youtube.com/watch?v=ecT42O6I_WI]
+  - (Open Weather)[https://www.youtube.com/watch?v=ecT42O6I_WI]
   - (New York times)[https://www.youtube.com/watch?v=IMne3LY4bks&list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r&index=9]
   - (Giphy images)[https://www.youtube.com/watch?v=mj8_w11MvH8&index=10&list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r]
   - (Twitter API and Twitter Bot)[http://shiffman.net/a2z/twitter-bots/]
