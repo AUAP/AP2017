@@ -1,7 +1,7 @@
 # code and language
 
 - Font (load font)
-- loadStrings (a txt file with data)
+- loadStrings (a txt file)
 - textSize
 - Array
 - Match
