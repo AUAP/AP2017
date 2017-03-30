@@ -6,7 +6,7 @@ sketch09
 - Apply your own API key here: https://developer.nytimes.com/
 - check out the json file here: https://developer.nytimes.com/article_search_v2.json#/Console  (this is for reference only because I found that the interface cannot recognize some of the parameters)
 - for other data >   "url": "images/2016/02/12/business/12db-markets-jp/12db-markets-jp-thumbWide.jpg", you need to add "https://www.nytimes.com/" in front to get the full image.  e.g http://www.nytimes.com/images/2016/02/12/business/12db-markets-jp/12db-markets-jp-thumbWide.jpg
-- for easier data viewing (identify which node), you can put the full query request on a web browser
+- for easier data viewing (identify which node), you can put the full query request on a web browser.
 */
 
 var url = 'http://api.nytimes.com/svc/search/v2/articlesearch.json';
