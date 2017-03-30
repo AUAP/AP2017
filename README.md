@@ -83,7 +83,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 - - - 
 ### Class 10 > Week 14 [4-Apr]: Code and Datafication. Tutorial session on Wed
 #### Read data, JSON, API
-- **Reading/Watching:** <br> - [Video: Working with data by Daniel Shiffman](https://www.youtube.com/watch?v=_NFkzw6oFtQ&list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r&index=2) **(Must watch: 8.1-8.10)** <br> -	[Different APIs for ref](https://itp.nyu.edu/classes/cc-s16/category/88data/) <br> -	[Article: The politics of Big Data Aesthetics by Morten Søndergaard](http://ojs.statsbiblioteket.dk/index.php/mediekultur/article/view/23078) 
+- **Reading/Watching:** <br> - [Video: Working with data by Daniel Shiffman](https://www.youtube.com/watch?v=_NFkzw6oFtQ&list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r&index=2) **(Must watch: 8.1-8.10)** <br> -	[Different APIs for ref](https://itp.nyu.edu/classes/cc-s16/category/88data/) <br> -	[Article: The politics of Big Data Aesthetics by Morten Søndergaard](http://ojs.statsbiblioteket.dk/index.php/mediekultur/article/view/23078) <br> - [Short article: On Second Thought: Facebook wants to know why you didn’t publish that status update you started writing](http://www.slate.com/articles/technology/future_tense/2013/12/facebook_self_censorship_what_happens_to_the_posts_you_don_t_publish.html)
 - **No Peer-tutoring**
 - **Weekly mini ex9: due week 15 - Utilizing APIs** <br> Check mini ex9 folder 
 - - - 
