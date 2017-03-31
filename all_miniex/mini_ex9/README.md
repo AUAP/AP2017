@@ -11,8 +11,9 @@
   - [Twitter API and Twitter Bot](http://shiffman.net/a2z/twitter-bots/)
   - [Movie API](https://itp.nyu.edu/classes/cc-s16/movie-api-data/)
   - [Global statistic API](https://itp.nyu.edu/classes/cc-s16/inqubu-global-statistics-api/)
+  - [Google map API](https://developers.google.com/maps/documentation/javascript/)
   - [Search many other kinds of API](https://www.programmableweb.com/)
-
+  
 3) Upload your sketch in a directory called "miniex9". Create a README file and upload to the same directory. The readme file should address the following: 
 - Which API have you chosen? and Why? 
 - Can you describe your process of making this mini exercise in terms of acquiring, processing, using and representing data?
