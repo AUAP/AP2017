@@ -13,8 +13,8 @@
   - [Global statistic API](https://itp.nyu.edu/classes/cc-s16/inqubu-global-statistics-api/)
   - [Search many other kinds of API](https://www.programmableweb.com/)
 
-3) Upload your sketch in a directory called "miniex9. Create a README file and upload to the same directory. The readme file should address the following: 
-- Which API have you choosen? and Why? 
+3) Upload your sketch in a directory called "miniex9". Create a README file and upload to the same directory. The readme file should address the following: 
+- Which API have you chosen? and Why? 
 - Can you describe your process of making this mini exercise in terms of acquiring, processing, using and representing data?
 - What is your reflection on the aesthetics of (big) data? 
 
