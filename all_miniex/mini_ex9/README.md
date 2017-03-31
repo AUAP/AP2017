@@ -14,6 +14,8 @@
   - [Google map API](https://developers.google.com/maps/documentation/javascript/)
   - [Search many other kinds of API](https://www.programmableweb.com/)
   
+* for those APIs require OAuth, you need [Node.js](https://nodejs.org/en/)
+
 3) Upload your sketch in a directory called "miniex9". Create a README file and upload to the same directory. The readme file should address the following: 
 - Which API have you chosen? and Why? 
 - Can you describe your process of making this mini exercise in terms of acquiring, processing, using and representing data?
