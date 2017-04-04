@@ -50,7 +50,7 @@ function draw() {
 	if (request_time<words.length) {
 		request = url + "?q=" + words[request_time] + "&begin_date=" + start + "&end_date" + end + "&api-key=" + apikey;
 		console.log(request);  //print the full query request
-		loadJSON(request, gotData);	
+		loadJSON(request, gotData); //this is the key syntax and line of code to make a query request and get a query response
 		request_time++;
 	}else{
 		noLoop();
