@@ -34,7 +34,7 @@ function setup() {
 function gotData(data) {   //a callback needs an argument
 	//console.log(data);  //to test if there is any response
 	freq = data.response.meta.hits;
-	console.log("There were " + freq + " occurrences of the term " + words[request_time]);
+	console.log("There were " + freq + " occurrences of the term " + words[request_time-1]);
 	fill(255);
 	translate(barsize*request_time, 0);
 	rect(width/4, 0, barsize, map(freq, 0, 20000, 0, height));	
