@@ -1,4 +1,4 @@
-#Weekly mini ex7: due week 13 - Create your own Form Art
+# Weekly mini ex7: due week 13 - Create your own Form Art
 
 1)	Watch this video about slider dance by Daniel Shiffman: https://www.youtube.com/watch?v=CMsD3IigG7g  
 
