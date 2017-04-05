@@ -1,4 +1,4 @@
-#Weekly mini ex1: due week 7 - Net Art Review
+# Weekly mini ex1: due week 7 - Net Art Review
 	
 1. Read [Web Work: A history of Internet Art by Rachel Greene] (http://cyberhouse.arted.psu.edu/visualculture/history_net_art.pdf)  
 	
