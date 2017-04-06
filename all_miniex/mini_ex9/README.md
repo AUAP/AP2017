@@ -1,4 +1,4 @@
-# Weekly mini ex9: due week 15 - Working with APIs
+# Weekly mini ex9: due 16 Apr (Sun) - Working with APIs
 
 1) First, take a deep breath. This mini exercise may require sometimes to do it. If you like you can work in a group of 2 people.
 
