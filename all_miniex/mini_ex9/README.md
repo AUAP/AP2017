@@ -4,13 +4,13 @@
 
 2) Design a program that utilizes a web API (below is just a suggestion, and you can search for others). You need to pay attention to your process of acquiring, processing, using and representing data.
 
-  - [Open Weather](https://www.youtube.com/watch?v=ecT42O6I_WI)
-  - [Other weather API by apix](https://p5js.org/examples/hello-p5-weather.html)
-  - [New York times](https://www.youtube.com/watch?v=IMne3LY4bks&list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r&index=9)
-  - [Giphy images](https://www.youtube.com/watch?v=mj8_w11MvH8&index=10&list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r)
-  - [Twitter API and Twitter Bot](http://shiffman.net/a2z/twitter-bots/)
-  - [Movie API](https://itp.nyu.edu/classes/cc-s16/movie-api-data/)
-  - [Global statistic API](https://itp.nyu.edu/classes/cc-s16/inqubu-global-statistics-api/)
+  - [Open Weather with code example](https://www.youtube.com/watch?v=ecT42O6I_WI)
+  - [Other weather API by apix with code example](https://p5js.org/examples/hello-p5-weather.html)
+  - [New York times with code example](https://www.youtube.com/watch?v=IMne3LY4bks&list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r&index=9)
+  - [Giphy images with code example](https://www.youtube.com/watch?v=mj8_w11MvH8&index=10&list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r)
+  - [Twitter API and Twitter Bot with code example](http://shiffman.net/a2z/twitter-bots/)
+  - [Movie API with code example](https://itp.nyu.edu/classes/cc-s16/movie-api-data/)
+  - [Global statistic API with code example](https://itp.nyu.edu/classes/cc-s16/inqubu-global-statistics-api/)
   - [Google map API](https://developers.google.com/maps/documentation/javascript/)
   - [Search many other kinds of API](https://www.programmableweb.com/)
   
