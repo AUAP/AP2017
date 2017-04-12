@@ -59,7 +59,7 @@ Conduct a presentation within 10 mins with a software demo, articulating your wo
 | Week 15.3 - 12-Apr (WED) | Easter holiday                               
 | Week 16.2 - 18-Apr (TUE) | Easter holiday                               
 | Week 16.3 - 19-Apr (WED) | **Tutorial session**                               
-| Week 16.5 - 21-Apr (FRI) | **Upload the draft project’s synopsis**          
+| Week 16.5 - 21-Apr (FRI) | **Upload the draft project’s synopsis + flowchart**          
 | Week 17.1 - 24-Apr (MON) | Notification of group meeting schedule       
 | Week 17.2 - 25-Apr (TUE) | **Face to face feedback/discussion on the draft synopsis**  
 | Week 17.3 - 26-Apr (WED) | **Tutorial session**                             
