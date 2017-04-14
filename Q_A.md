@@ -62,6 +62,7 @@ function draw() {
 
 9) Updated: I have also tried the Firefox plugin called **CORS Everywhere** with the above sample code and it works fine too to by pass the issue (https://addons.mozilla.org/en-US/firefox/addon/cors-everywhere/) - pls check how to enable the add-on [my testing platform: mac os 10.9.5 + firefox 52.0.2 + CORS EVERYTHERE add-on ver 20150910-1410]. For my chrome setting, the extenson is called Allow-Control-Allow-Origin (https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi) [my testing platform is mac os 10.9.5 + chrome 57.0.2987.133 + extension:ver 1.0.3] 
 
+The screenshot of browser's log (with the installation of browser add-on) 
 ![Browser log with add-on](https://github.com/AUAP/AP2017/blob/master/cross_domain_issue_API.png)
 
 **Q: You write in the readme that we have to use found litteratur. But would it also be okay if [we] create our own narrative/story?**
