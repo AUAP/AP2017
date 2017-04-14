@@ -15,6 +15,7 @@ test on WolframAlpha, pls use your app key
 var request = 'http://api.wolframalpha.com/v2/query?appid=VJ3E4A-4R8W8VWRK2&output=json&input=population%20of%20france';
 
 function setup() {
+  console.log("hello world");
   createCanvas(700,700);
   background(0);
   frameRate(1);
