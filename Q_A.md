@@ -26,8 +26,10 @@ function setup() {
 function gotData(data) {   //a callback needs an argument
 
   console.log(data);  //to test if there is any response
+  
   freq = data.queryresult.numpods;
-	console.log(freq);
+  
+  console.log(freq);
  
 }
 
