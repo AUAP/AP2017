@@ -56,7 +56,7 @@ function draw() {
 
 8) The issue is that github is more a source code sharing platform, it is not a real web hosting platform allows you to run the server side program (such as the installation of node.js). One way you can do is to (if you want to solve it as a long term issue and you want to experiment and explore this) install it in your own machine that acts as a web server. 
 
-9) Updated: I have also tried the Firefox plugin called **cross domain cors** with the above sample code and it works fine too to by pass the issue: https://addons.mozilla.org/en-US/firefox/addon/cross-domain-cors/  (my testing platform: mac os 10.9.5 + firefox 52.0.2 + cross domain cors add on 0.0.5). For my chrome setting, my testing platform is mac os 10.9.5 + chrome 57.0.2987.133 + extension: Allow-Control-Allow-Origin: ver 1.0.3) [https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi]
+9) Updated: I have also tried the Firefox plugin called **cross domain cors** with the above sample code and it works fine too to by pass the issue (https://addons.mozilla.org/en-US/firefox/addon/cross-domain-cors/) [my testing platform: mac os 10.9.5 + firefox 52.0.2 + cross domain cors add-on ver 0.0.5]. For my chrome setting, the extenson is called Allow-Control-Allow-Origin (https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi) [my testing platform is mac os 10.9.5 + chrome 57.0.2987.133 + extension:ver 1.0.3] 
 
 **Q: You write in the readme that we have to use found litteratur. But would it also be okay if [we] create our own narrative/story?**
 
