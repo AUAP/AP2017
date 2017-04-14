@@ -27,7 +27,9 @@ function gotData(data) {   //a callback needs an argument
 
   console.log(data);  //to test if there is any response
   
+  
   freq = data.queryresult.numpods;
+  
   
   console.log(freq);
  
@@ -36,6 +38,7 @@ function gotData(data) {   //a callback needs an argument
 function draw() {
 
   loadJSON(request, gotData); //this is the key syntax and line of code to make a query request and get a query response
+  
   noLoop();
 
 }
