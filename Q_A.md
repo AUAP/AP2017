@@ -33,27 +33,27 @@ function draw() {
 
 ```
 
-1) If you put the whole request URL on a web browser, it did return something back: http://api.wolframalpha.com/v2/query?appid=VJ3E4A-4R8W8VWRK2&output=json&input=population%20of%20france. This shows that the query link is correct and no problem with the wolframalpha server. If there are anythings can't display with the code, that is p5js issue or your own code writing issue (this helps to isolate the problem)
+1) If you put the whole request URL on a web browser, it did return something back: http://api.wolframalpha.com/v2/query?appid=VJ3E4A-4R8W8VWRK2&output=json&input=population%20of%20france. This shows that the query link is correct and no problem with the wolframalpha server. (This helps to narrow down the problem, which is not related to the server or query parameters)
 
-* I am more familiar with json than xml, that's why the query with the paramenter > output with json as you can see in the query request. 
+* I am more familiar with json than xml, that's why the query with the paramenter > 'output with json' as you can see in the query request. 
 
-2) When I run the above program, I got similar issue as what you have said: "No access-control-allow-origin' . From this I know this is web issue and that is nothing wrong with the wolframalpha server or the query code (as per step 1 experiment)
+2) When I run the above program, I got similar issue as what you have said: "No access-control-allow-origin'. From this I know this is a web issue and nothing wrong with the wolframalpha server or the query code (as per step 1 experiment where I can use the web browser to test the query request and response)
 
 3) Then I google the issue and found this: http://stackoverflow.com/questions/20035101/no-access-control-allow-origin-header-is-present-on-the-requested-resource
 
 4) For immediate fix, I install a chrome extension as recommended by step 3: https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi/related?hl=en-US
 
-5) I tried to run the code again, and it works. This means it returns something (which is not error) in the console log. (the extension allows by passing the cross domain issue) This also implies the p5js code is correct.
+5) I tried to run the code again, and it works. This means it returns something (which is not an error) in the console log. (The extension allows by passing the cross domain issue) This also implies that the p5js code is correct.
 
-6) But this is more a temporary fix to test your code whether it is workable or not. As a long run, it is still needed to be fixed by having node.js to allow server side communication. Since you don't have a real web hosting (and you can't really install it on github), it is then more for you to run your program in your computer as a server machine. (For details about node.js, please check with daniel shiffman : https://www.youtube.com/watch?v=RF5_MPSNAtU)
+6) But this is more a temporary fix to test your code whether it is workable or not, and mainly for testing. As a long run, it is still needed to be fixed by having node.js to allow server side communication. Since you don't have a real web hosting (and you can't really install it on github), it is then more for you to run your program in your computer as a server machine. (For details about node.js, please check with daniel shiffman : https://www.youtube.com/watch?v=RF5_MPSNAtU) This is another issue you need to handle in future if you have to implement a real application on any chosen web hosting. 
 
-7) For the sake of mini ex submission, I recommend you use the method of having google chrome extension (state the rules in your readme so people know how to download and execute your program. I also think there should be similar plugin available for firefox). I do mention it in the mini ex step: "Please indicate if your work requires to download and run on our own computer. (As for mine, github doesn't work for me that's why I have to upload to my own server and ask you to download it to run on your computer)"
+7) For the sake of mini ex submission, I recommend you use the method of having Google chrome extension (state the rules in your readme so people know how to download and execute your program. I also think there should be similar plugin available for firefox - pls see point 9). I do mention it in the mini ex step: "Please indicate if your work requires to download and run on our own computer. (As for mine, github doesn't work for me that's why I have to upload to my own server and ask you to download it to run on your computer)"
 
-8) The issue is that github is more a source code sharing platform, it is not a real web hosting platform allows you to run the server side program (such as the installation of node.js). One way you can do is to (if you want to solve it as a long term issue and you want to experiment and explore this) install it in your own machine that acts as a web server. 
+8) The issue is that github is more a source code sharing platform, it is not a real web hosting platform. It does not allow running server side program (such as the installation and configuration of node.js). One way you can do is to (if you want to solve it as a long term issue and you want to experiment and explore this) install it in your own machine that acts as a web server. 
 
 9) Updated: I have also tried the Firefox plugin called **CORS Everywhere** with the above sample code and it works fine too to by pass the issue (https://addons.mozilla.org/en-US/firefox/addon/cors-everywhere/) - pls check how to enable the add-on [my testing platform: mac os 10.9.5 + firefox 52.0.2 + CORS EVERYTHERE add-on ver 20150910-1410]. For my chrome setting, the extenson is called Allow-Control-Allow-Origin (https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi) [my testing platform is mac os 10.9.5 + chrome 57.0.2987.133 + extension:ver 1.0.3] 
 
-The screenshot of browser's log (with the installation of browser add-on) 
+The screenshot of Firefox browser's log (with the installation of browser add-on) 
 ![Browser log with add-on](https://github.com/AUAP/AP2017/blob/master/cross_domain_issue_API.png)
 
 **Q: You write in the readme that we have to use found litteratur. But would it also be okay if [we] create our own narrative/story?**
