@@ -22,6 +22,7 @@ frameRate(1);
 }
 
 function gotData(data) {   //a callback needs an argument
+
 console.log(data);  //to test if there is any response
  
 }
