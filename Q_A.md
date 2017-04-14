@@ -16,21 +16,23 @@ var request = 'http://api.wolframalpha.com/v2/query?appid=VJ3E4A-4R8W8VWRK2&outp
 
 
 function setup() {
-createCanvas(700,700);
-background(0);
-frameRate(1);
+
+  createCanvas(700,700);
+  background(0);
+  frameRate(1);
+
 }
 
 function gotData(data) {   //a callback needs an argument
 
-console.log(data);  //to test if there is any response
+  console.log(data);  //to test if there is any response
  
 }
 
 function draw() {
 
-loadJSON(request, gotData); //this is the key syntax and line of code to make a query request and get a query response
-noLoop();
+  loadJSON(request, gotData); //this is the key syntax and line of code to make a query request and get a query response
+  noLoop();
 
 }
 
