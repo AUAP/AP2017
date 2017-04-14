@@ -1,15 +1,12 @@
-**Q: **
-I have probably tried out four or five different API's at this point (Wolfram Alpha, XKCD and a few more) and have not been able
+**Q:I have probably tried out four or five different API's at this point (Wolfram Alpha, XKCD and a few more) and have not been able
 to successfully make requests to any of them. I have tried using the built-in 'XMLHttpRequest' object (AJAX), p5.js' 'loadJSON()'
 function, and the built-in 'JSON.parse()' object, and every time my plans are foiled because the API does not support Cross-Origin Resource Sharing (i.e. loading content from other domains). I've found a list of API's that are supposed to support CORS, and even
 a technique for making special CORS requests with Javascript, but nothing seems to work. Are you familiar with this problem? Can
-you point me to any resources/documentation that describe, step-by-step, how to make CORS work?
+you point me to any resources/documentation that describe, step-by-step, how to make CORS work?**
 
-A: 
+A: I have just done a test on wolframAlpha to understand the issue that you have asked. Below is the sample code:
 
-I have just done a test on wolframAlpha to understand the issue that you have asked. Below is the sample code:
-
-----------------------
+///////
 /*
 test on WolframAlpha, pls use your app key
 */
@@ -30,11 +27,10 @@ console.log(data);  //to test if there is any response
 
 
 function draw() {
- 
 loadJSON(request, gotData); //this is the key syntax and line of code to make a query request and get a query response
 noLoop();
 }
---------
+///////
 
 1) If you put the whole request URL on a web browser, it did return something back: http://api.wolframalpha.com/v2/query?appid=VJ3E4A-4R8W8VWRK2&output=json&input=population%20of%20france. This shows that the query link is correct and no problem with wolframalpha server. If there are anythings can't display with the code, that is p5js issue or your own code writing issue (this helps to isolate the problem)
 
