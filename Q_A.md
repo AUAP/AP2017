@@ -1,4 +1,4 @@
-**Q:I have probably tried out four or five different API's at this point (Wolfram Alpha, XKCD and a few more) and have not been able
+**Q: I have probably tried out four or five different API's at this point (Wolfram Alpha, XKCD and a few more) and have not been able
 to successfully make requests to any of them. I have tried using the built-in 'XMLHttpRequest' object (AJAX), p5.js' 'loadJSON()'
 function, and the built-in 'JSON.parse()' object, and every time my plans are foiled because the API does not support Cross-Origin Resource Sharing (i.e. loading content from other domains). I've found a list of API's that are supposed to support CORS, and even
 a technique for making special CORS requests with Javascript, but nothing seems to work. Are you familiar with this problem? Can
