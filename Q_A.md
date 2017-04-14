@@ -7,6 +7,7 @@ you point me to any resources/documentation that describe, step-by-step, how to 
 A: I have just done a test on wolframAlpha to understand the issue that you have asked. Below is the sample code:
 
 ///////
+
 /*
 test on WolframAlpha, pls use your app key
 */
@@ -25,11 +26,13 @@ console.log(data);  //to test if there is any response
  
 }
 
-
 function draw() {
+
 loadJSON(request, gotData); //this is the key syntax and line of code to make a query request and get a query response
 noLoop();
+
 }
+
 ///////
 
 1) If you put the whole request URL on a web browser, it did return something back: http://api.wolframalpha.com/v2/query?appid=VJ3E4A-4R8W8VWRK2&output=json&input=population%20of%20france. This shows that the query link is correct and no problem with wolframalpha server. If there are anythings can't display with the code, that is p5js issue or your own code writing issue (this helps to isolate the problem)
