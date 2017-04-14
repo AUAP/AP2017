@@ -6,7 +6,7 @@ you point me to any resources/documentation that describe, step-by-step, how to 
 
 A: I have just done a test on wolframAlpha to understand the issue that you have asked. Below is the sample code:
 
-///////
+```javascript
 
 /*
 test on WolframAlpha, pls use your app key
@@ -43,7 +43,7 @@ function draw() {
 
 }
 
-///////
+```
 
 1) If you put the whole request URL on a web browser, it did return something back: http://api.wolframalpha.com/v2/query?appid=VJ3E4A-4R8W8VWRK2&output=json&input=population%20of%20france. This shows that the query link is correct and no problem with the wolframalpha server. If there are anythings can't display with the code, that is p5js issue or your own code writing issue (this helps to isolate the problem)
 
