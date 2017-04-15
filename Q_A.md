@@ -87,6 +87,25 @@ request(request1, function (error, response, body) {
   }
 })
 ```
+This also works as well:
+```
+var http = require("http");
+var request1 = "http://api.wolframalpha.com/v2/query?appid=VJ3E4A-4R8W8VWRK2&output=json&input=population%20of%20france";
+
+//Connect to API URL 
+var request = http.get(request1, function(response){
+  console.log(response.statusCode);
+  //Read the Data
+  response.on('data', function (chunk) {
+  console.log('BODY: ' + chunk)
+  });
+
+});
+
+request.on("error", function(error){
+  console.error(error.message);
+})
+```
 
 **Q: You write in the readme that we have to use found litteratur. But would it also be okay if [we] create our own narrative/story?**
 
