@@ -57,7 +57,7 @@ function draw() {
 The screenshot of Firefox browser's log (with the installation of browser add-on) 
 ![Browser log with add-on](https://github.com/AUAP/AP2017/blob/master/cross_domain_issue_API.png)
 
-10) Updated2 (for super advanced user): Other than having browser add-on, you can also install node.js and this also requires to install module npm, express and request. (This is a pretty good tutorial: https://www.tutorialspoint.com/nodejs/) Sample code that works on mine as below. (AGAIN, this is just one of the many ways that works)
+10) Updated2 (for super advanced user): Other than having browser add-on, you can also install node.js and this also requires to install module npm, express and request. (This is a pretty good tutorial: https://www.tutorialspoint.com/nodejs/) Sample server side code that works on mine as below. (AGAIN, this is just one of the many ways that works)
 Run within the terminal (where the API result is returned here):
 ```
 node yourfile.js
