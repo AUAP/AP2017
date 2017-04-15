@@ -88,7 +88,8 @@ request(request1, function (error, response, body) {
 })
 ```
 This also works as well:
-```
+```javascript
+// yourfile.js
 var http = require("http");
 var request1 = "http://api.wolframalpha.com/v2/query?appid=VJ3E4A-4R8W8VWRK2&output=json&input=population%20of%20france";
 
