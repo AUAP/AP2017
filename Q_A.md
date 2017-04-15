@@ -52,10 +52,35 @@ function draw() {
 
 8) The issue is that github is more a source code sharing platform, it is not a real web hosting platform. It does not allow running server side program (such as the installation and configuration of node.js). One way you can do is to (if you want to solve it as a long term issue and you want to experiment and explore this) install it in your own machine that acts as a web server. 
 
-9) Updated: I have also tried the Firefox plugin called **CORS Everywhere** with the above sample code and it works fine too to by pass the issue (https://addons.mozilla.org/en-US/firefox/addon/cors-everywhere/) - pls check how to enable the add-on [my testing platform: mac os 10.9.5 + firefox 52.0.2 + CORS EVERYTHERE add-on ver 20150910-1410]. For my chrome setting, the extenson is called Allow-Control-Allow-Origin (https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi) [my testing platform is mac os 10.9.5 + chrome 57.0.2987.133 + extension:ver 1.0.3] 
+9) Updated1: I have also tried the Firefox plugin called **CORS Everywhere** with the above sample code and it works fine too to by pass the issue (https://addons.mozilla.org/en-US/firefox/addon/cors-everywhere/) - pls check how to enable the add-on [my testing platform: mac os 10.9.5 + firefox 52.0.2 + CORS EVERYTHERE add-on ver 20150910-1410]. For my chrome setting, the extenson is called Allow-Control-Allow-Origin (https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi) [my testing platform is mac os 10.9.5 + chrome 57.0.2987.133 + extension:ver 1.0.3] 
 
 The screenshot of Firefox browser's log (with the installation of browser add-on) 
 ![Browser log with add-on](https://github.com/AUAP/AP2017/blob/master/cross_domain_issue_API.png)
+
+10) Updated2 (for super advanced user): Other than having browser add-on, you can also install node.js and this also requires to install module npm, express and request. Sample code that works on mine:
+```
+var express = require('express');
+var app = express();
+var request = require('request');
+var request1 = "http://api.wolframalpha.com/v2/query?appid=VJ3E4A-4R8W8VWRK2&output=json&input=population%20of%20france";
+
+
+var server = app.listen(8081, function () {
+
+   var host = server.address().address
+   var port = server.address().port
+
+   console.log("Example app listening at http://%s:%s", host, port)
+})
+
+
+request(request1, function (error, response, body) {
+  if (!error && response.statusCode == 200) {
+    var jsonArr = JSON.parse(body);
+    console.log(jsonArr);
+  }
+})
+```
 
 **Q: You write in the readme that we have to use found litteratur. But would it also be okay if [we] create our own narrative/story?**
 
