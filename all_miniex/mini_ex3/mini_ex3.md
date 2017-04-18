@@ -1,7 +1,7 @@
 
 #Weekly mini ex3: due week 9 - Design your own throbber
 
-1) Download the book and read the article: [Executing Micro-temporality (2017) by Winnie Soon, p. 89-102] (http://www.data-browser.net/06/). 
+1) Download the book and read the article: [Executing Micro-temporality (2017) by Winnie Soon, p. 89-102](http://www.data-browser.net/06/). 
 
 2) Study the syntaxes that have been discussed in class, and then experiment with a new syntax in p5.js that is related to shape/image (https://p5js.org/reference/).
 
