@@ -1,9 +1,9 @@
 
 #Weekly mini ex4: due week 10 - Feedback loop
 
-1)	Read the article [Cybernetics and the Pioneers of Computer Art by Thomas Dreher] (http://dreher.netzliteratur.net/4_Medienkunst_Kybernetike.html)
+1)	Read the article [Cybernetics and the Pioneers of Computer Art by Thomas Dreher](http://dreher.netzliteratur.net/4_Medienkunst_Kybernetike.html)
 
-2)	Take a look at some projects that express the concept of feedback loop [here] (http://www.creativeapplications.net/processing/feedback-machines-mis-using-technology-non-linear-behavioural-systems
+2)	Take a look at some projects that express the concept of feedback loop [here](http://www.creativeapplications.net/processing/feedback-machines-mis-using-technology-non-linear-behavioural-systems
 ) 
 
 3)	Explore different sensing technologies such as video, sound, mouse and keyboard 
