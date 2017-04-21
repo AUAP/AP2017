@@ -50,7 +50,7 @@ What does it make possible?
 
 <h3>Flowchart</h3>
 
-![Alt text](https://auap.github.io/Final_Project/Group6/Draft/FlowchartPseudocodeFacebookMetrics.JPG?raw=true "Flowchart Screenshot")
+![Flowchart](FlowchartPseudocodeFacebookMetrics.JPG?raw=true "Flowchart")
 
 
 <h3>Bibliography</h3> 
