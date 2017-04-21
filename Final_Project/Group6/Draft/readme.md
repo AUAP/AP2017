@@ -18,8 +18,11 @@ In order to make the notion of the “desire for more” as a fundamental trait 
 The more characters on the counter, the higher the increment when pressing the like button. A table of increments could go like this:
  
 140 - 159 = +2 characters
+
 160 – 199 = +5+2 characters (+7)
+
 200 – 319 = +11+5+2 characters (+18)
+
 320+           = +24+11+5+2 characters (+42)
  
 Limit: No limit (The idea of capitalism is emphasized through “wanting more” meaning that the satisfaction(s) of your needs always is s+1. In regards to this notion, a limit would not be suitable for this program.)
