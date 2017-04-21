@@ -37,9 +37,10 @@ To begin with, there are few tips may help you to come up with a project idea:
 -	Open question: How do you see the project as a critical work in itself?
 
 3/ **Submission via Github:** 
--	Submission channel: https://github.com/AUAP/AP2017
--	Create a group folder under the existing one-“Final_Project” e.g group 1, group 2 …
--	Put all the RUNME and README files inside your group folder
+- Submission channel: https://github.com/AUAP/AP2017
+- Create a group folder under the existing one-“Final_Project” e.g Group1, Group2 …
+- For draft submission: create a draft folder under your group folder
+- For final project submission: create a final folder under your group folder, then put all the RUNME and README files inside the final folder.
 
 ## Presentation: 
 
