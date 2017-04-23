@@ -1,5 +1,5 @@
 
-#Weekly mini ex3: due week 9 - Design your own throbber
+# Weekly mini ex3: due week 9 - Design your own throbber
 
 1) Download the book and read the article: [Executing Micro-temporality (2017) by Winnie Soon, p. 89-102](http://www.data-browser.net/06/). 
 
