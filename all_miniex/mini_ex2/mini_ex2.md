@@ -1,4 +1,4 @@
-#Weekly mini ex2: due week 8 - My First Program
+# Weekly mini ex2: due week 8 - My First Program
 
 1) Watch the assigned class materials and create a github account
 
