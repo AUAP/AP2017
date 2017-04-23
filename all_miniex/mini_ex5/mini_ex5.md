@@ -1,5 +1,5 @@
 
-#Weekly mini ex5: due week 11 - electronic literature
+# Weekly mini ex5: due week 11 - electronic literature
 
 1) Read the article again [Literature from Page to Interface: The Treatments of Text in Christophe Bruno’s Iterature by Søren Pold](http://www.electronicbookreview.com/thread/electropoetics/textualized) 
 
