@@ -1,5 +1,5 @@
 
-#Weekly mini ex6: due week 12 - A Generative Program
+# Weekly mini ex6: due week 12 - A Generative Program
 
 1) Read the article again "Generative Art Theory by Philip Galanter" - check the reading on blackboard
 
