@@ -1,5 +1,5 @@
 
-#Weekly mini ex4: due week 10 - Feedback loop
+# Weekly mini ex4: due week 10 - Feedback loop
 
 1)	Read the article [Cybernetics and the Pioneers of Computer Art by Thomas Dreher](http://dreher.netzliteratur.net/4_Medienkunst_Kybernetike.html)
 
