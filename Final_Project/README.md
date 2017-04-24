@@ -70,7 +70,7 @@ Conduct a presentation within 10 mins with a software demo, articulating your wo
 | Week 19.3 - 10-May (WED) | No Tutorial (Prepare for your final project) 
 | Week 20.2 - 16-May (TUE) | **FINAL GROUP PRESENTATION + SUBMISSION**     
 
-## PRESENTATION ARRANGEMENT:
+## Presentation Arrangement:
 Date: 16 May 2017, Location: 5361-144
 
 | Time        | Group                             
