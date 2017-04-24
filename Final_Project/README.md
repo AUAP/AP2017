@@ -74,7 +74,7 @@ Conduct a presentation within 10 mins with a software demo, articulating your wo
 Date: 16 May 2017, Location: 5361-144
 
 | Time        | Group                             
-| ------------ |:-------------------------------------------  
+| ------------ |:------------------------------------------  
 | 08.15-08.30 | Group 1            
 | 08.35-08.55 | Group 2                                 
 | 09.00-09.15 | Group 3                              
