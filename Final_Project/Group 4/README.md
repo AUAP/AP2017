@@ -3,7 +3,7 @@
 
 By Kristine, Emma O, Emma P & Maria B
 
-[Streams](https://cdn.rawgit.com/AUAP/AP2017/09f19739/Final_Project/Group%204/Final%20Project/RUNME/index.html)
+<b>Run:</b> [Streams](https://cdn.rawgit.com/AUAP/AP2017/09f19739/Final_Project/Group%204/Final%20Project/RUNME/index.html)
 
 Our project is based on the chapter Real-Time Streams in David Berry’s publication The Philosophy of Software - Code and Mediation in the Digital Age from 2011. The chapter elaborates the term real-time streams and later discusses the impact these streams have on society, and it is this particular discussion of Berry’s that we have decided to implement in our project. 
 
