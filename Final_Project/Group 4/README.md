@@ -15,6 +15,9 @@ Our project is based on the chapter Real-Time Streams in David Berry’s publica
    
    Additionally our work seeks to portray Borthwick’s concern with how: “The cacophony of the crowd starts to erase the past and affirm the present (...) everything is out there but with little sense of priority of ability to find it becomes like a mythical library - it’s there but we can’t access it.” (2011: 147, Borthwick). Because of the deluge of data Borthwick is worried that the history will be erased for the benefit of the now. Our work illustrates the society’s production of the now and the user’s addition to and forced observation of it. 
 
+![ScreenShot](https://github.com/AUAP/AP2017/blob/master/Final_Project/Group%204/Screenshots/1.png)
+![ScreenShot](https://github.com/AUAP/AP2017/blob/master/Final_Project/Group%204/Screenshots/2.png)
+![ScreenShot](https://github.com/AUAP/AP2017/blob/master/Final_Project/Group%204/Screenshots/3.png)
 
 At the beginning of the programme the user is faced with a status update area with the opportunity to write something within that area. If the user decides to write something and then press Post the programme will start to display posts from all sorts of news feeds. The user is able to get rid of the posts by clicking on them with the mouse, which will make them disappear. At first the acceleration of the displaying of the posts is slow, but the speed gradually increases until finally the user is unable to keep up, and eventually the user have to sit back and observe the stream of posts pass by. 
 
