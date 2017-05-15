@@ -25,7 +25,7 @@ At the beginning of the programme the user is faced with a status update area wi
 
 <b>Flowchart</b>
 
-
+![ScreenShot](https://github.com/AUAP/AP2017/tree/master/Final_Project/Group%204)
 
 Initially the programme may resemble a sheer demonstration of David Berry’s theoretical notion of data as streams. While the mousepressed function makes it possible to delete the accelerating posts serve to prove Berry’s point that we as riparian citizens are unable to keep up with the data streams, it also serves as our critical view on his notion. 
 
