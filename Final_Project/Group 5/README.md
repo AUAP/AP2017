@@ -5,7 +5,3 @@
 <p>Screenshot</p>
 
 ![ScreenShot](https://github.com/RikkeBadsberg/FinalProject/blob/gh-pages/FinalProject/screenshot.png)
-
-![ScreenShot](https://github.com/RikkeBadsberg/FinalProject/blob/gh-pages/FinalProject/screenshot.png)
-
-
