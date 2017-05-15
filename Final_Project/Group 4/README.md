@@ -1,5 +1,5 @@
 
-<h4>Streams</h4>
+<h2>Streams</h2>
 
 By Kristine, Emma O, Emma P & Maria B
 
