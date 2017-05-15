@@ -3,6 +3,8 @@
 
 By Kristine, Emma O, Emma P & Maria B
 
+[Streams](https://github.com/AUAP/AP2017/tree/master/Final_Project/Group%204/Final%20Project/RUNME)
+
 Our project is based on the chapter Real-Time Streams in David Berry’s publication The Philosophy of Software - Code and Mediation in the Digital Age from 2011. The chapter elaborates the term real-time streams and later discusses the impact these streams have on society, and it is this particular discussion of Berry’s that we have decided to implement in our project. 
 
    During Berry’s discussion concerning the Real-Time Streams he mentions something he calls the riparian citizen, a term based on the philosophy of Søren Kirkegaard (2011: 144-145). Berry uses ‘riparian’ to refer to the act of watching a flow of stream go by. By adding Kirkegaard’s view on the impact the rise of the mass media has on the citizens of society, a view claiming that “(...) Not a single one of those who belong to the public has an essential engagement with anything.” (2011: 144), Berry manages to compose the perception of the riparian citizen. In other words, the riparian citizen is a resident in a new kind of public created by these new streams, the real-time streams, and the citizens are continually watching the flow of data, or delegating the supervision of the data to a technical device to do so on their behalf (2011: 144).
