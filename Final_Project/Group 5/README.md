@@ -1,6 +1,6 @@
 <h1>TrackMe</h1>
 
-<p>Link to program TBC</p>
+<p>Link to program: https://rikkebadsberg.github.io/FinalProject/FinalProject/ </p>
 
 <p>Screenshot</p>
 
