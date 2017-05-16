@@ -1,6 +1,7 @@
 <h1>You Can Speak Now</h1>
 Maria Ohrt Christensen, Mikkel Langberg Svendsen, Marie Louise Sandal, Nynne Lucca
 
+
 Our software aims at expressing the notion of social capital (Grosser, 2014, p.. 2) and its relation to freedom of speech on social media.
 
 We would like to explore how social media and especially Facebook supports and sustains already existing social structures of the society. Meaning that on Facebook we find a similarity to the capitalistic concept, where the ones that have more get more. In this case it’s not regarding the economical aspect, but the social aspect. Social capital is tied with personal worth and prestige in comparison to other people, notably friends. Raising one’s social capital is achieved by raising the numbers on your Facebook profile; your number of friends, likes, comments and so on.
@@ -51,6 +52,7 @@ This means that our main focus has not been on the privacy issue which may not b
 
 <h3>Flowchart</h3>
 
+![Flowchart](APFB.JPG?raw=true "Flowchart")
 
 
 
