@@ -2,7 +2,7 @@
 
 Step by step guide to run the program on Windows:
 
-1: Extract the files from the Group 7 Final Submission.rar file to your desktop.
+1: Extract the files from the Group 7 Final Submission.rar file to your desktop. (Using for example winrar from http://www.rarlab.com/download.htm)
 
 2: Install Node.js from https://nodejs.org/en/
 
