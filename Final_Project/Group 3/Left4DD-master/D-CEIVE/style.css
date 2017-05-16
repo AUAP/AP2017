@@ -1,0 +1,95 @@
+* {
+  font-family: Open Sans, sans-serif;
+  color: #E0FBFC;
+  text-align: left;
+  animation: fadein 1s;
+  position: absolute;
+}
+
+@keyframes fadein {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+*:not(head) { display: inline-block; }
+
+body { background-color: #3D5A80; }
+
+h1 {
+  font-size: 56px;
+  text-align: left;
+  left: 35vw;
+}
+
+h2 {
+  text-align: left;
+  font-size: 32px;
+  margin-bottom: 20px;
+  left: 35vw;
+  top: 120px;
+  min-width: 500px;
+}
+
+div { text-align: left; }
+
+img { transform: scale(0.75); }
+
+button, input {
+  background-color: #2D425E;
+  border: none;
+  border-radius: 5px;
+  text-align: center;
+}
+
+button{
+  opacity: .75;
+  transition: opacity .25s ease-in-out;
+  width: 100px;
+  height: 50px;
+  font-size: 32;
+  left: 35vw;
+  top: 80vh;
+}
+
+button:hover { opacity: 1; }
+
+input {
+	margin-top:10px;
+  position: static;
+}
+
+label {
+  position: relative;
+  left: 30px;
+  bottom: 22px;
+  width: 200px;
+}
+
+.noSubmit { left: 50vw; }
+
+.submit { background-color: #EE6C4D; }
+
+.background { transform: scale(0.8); }
+
+[type=text], [type=password] {
+  position: absolute;
+  text-align: left;
+  width: 300px;
+  height: 30px;
+  left: 35vw;
+  top: 230px;
+
+}
+
+[type=checkbox] {
+  width: 20px;
+  height: 20px;
+  left: 35vw;
+}
+
+#btn {
+  width: 200px;
+  height: 75px;
+  font-size: 32px;
+  background-color: #EE6C4D;
+}
