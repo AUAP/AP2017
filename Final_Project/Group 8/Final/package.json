@@ -1,0 +1,18 @@
+{
+  "name": "@FranzHmmingcrft",
+  "version": "1.0.0",
+  "description": "This is a Twitter bot, that tweets pseudorandom movie plots.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    ""
+  ],
+  "author": "Mick Holst et al",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.5"
+  }
+}
