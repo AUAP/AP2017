@@ -17,6 +17,8 @@ We would also like to criticize the fact that this quid pro quo framework presen
 We will take our theoretical starting point in the text  ”What Do Metrics Want? How Quantification Prescribes Social Interaction on Facebook” (2014), in Computational Culture no. 4 by Benjamin Grosser. With his software artwork Facebook Demetricator (2012), Grosser explores the use of metrics on Facebook and how they affect our behavioural patterns in the social context that Facebook is, specifically how metrics contribute to our desire for more (ibid., p. 1).  By that Grosser uses software to explore a cultural issue or concern as we ourselves wish to do. The above mentioned text is an examination of the metrics of Facebook and Grosser’s own artwork, which is why we find this relevant as a theoretical foundation.
 Furthermore we have found inspiration in the episode “Nosedive”(2016) of the tv-series Black Mirror which explicitly expresses how you gain more opportunities not only online, but in life (work, love, economy etc.) by gaining popularity on social networks. The episode can be characterized as dystopian and yet alarmingly close to reality showing how sociality has been materialized and economized through social media such as Facebook. The difference in the Black Mirror episode is that now it is not only the social media companies that gain profit from our popularity but also ourselves.
 
+![Screenshot](APFB.JPG?raw=true "Screenshot")
+
 <h3>Visuals and functions</h3>
 Our program will make use of aesthetics known from Facebook such as the like button, but use it in a new context to call attention to what we find criticizable. Also it is quite simple, but we do not find that a complexity is needed to express our criticism. Rather, we would argue that the simplicity we have chosen also helps the user to conclude on the program with more ease. That way, what we want to express becomes more direct.
 
@@ -52,7 +54,7 @@ This means that our main focus has not been on the privacy issue which may not b
 
 <h3>Flowchart</h3>
 
-![Flowchart](APFB.JPG?raw=true "Flowchart")
+![Flowchart](Flowchart.JPG?raw=true "Flowchart")
 
 
 
