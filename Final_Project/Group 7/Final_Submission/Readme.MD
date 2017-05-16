@@ -1,8 +1,8 @@
-## Step by Step
+## Step by Step guide
 
 Step by step guide to run the program on Windows:
 
-1: Extract the files from the XXXXX.rar file to your desktop.
+1: Extract the files from the Group 7 Final Submission.rar file to your desktop.
 
 2: Install Node.js from https://nodejs.org/en/
 
@@ -23,7 +23,7 @@ Access the dashboard:
 
 3: Type in IPCONFIG and copy the IPv4 Adress.
 
-4: Example: 10.192.62.117:3000
+4: Example: 10.192.65.117:3000
 
 Authentication to the twitter bot is done automatically through the ENV file.
 
