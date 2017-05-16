@@ -33,7 +33,7 @@ The goal of this work is to shed light on the importance to be critical towards 
 
 ![Screenshot](https://github.com/AUAP/AP2017/blob/master/Final_Project/Group%202/Draft/flowchart.jpg) 
 
-<b>References:
-Nathaniel Tkacz, “From Open source to Open government: A critique of open politics”, Ephemera articles volume 12(4) 2012.|
-Walter Benjamin, “Skribenten som producent” 1936[1934], Gyldendals forlag 1998, Nordisk forlag A.S</b>
+<b>References:</b>
+Nathaniel Tkacz, <i>“From Open source to Open government: A critique of open politics”,</i> Ephemera articles volume 12(4) 2012.|
+Walter Benjamin,<i> “Skribenten som producent”</i> 1936[1934], Gyldendals forlag 1998, Nordisk forlag A.S.
 
