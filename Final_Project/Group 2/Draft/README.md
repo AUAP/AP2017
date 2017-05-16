@@ -1,4 +1,4 @@
-<h1> The Great Leadr </h1>
+<h1> The Great Leader </h1>
 <h3> Twitter-bot </h3>
 
 <b>The Great Leader 2017</b><i>; on openness
