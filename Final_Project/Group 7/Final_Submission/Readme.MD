@@ -1,4 +1,4 @@
-### Life Of Bot
+# Life Of Bot
 
 
 ## Step by Step guide
