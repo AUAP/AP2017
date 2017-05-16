@@ -1,8 +1,8 @@
 <h1> The Great Leadr </h1>
 <h3> Twitter-bot </h3>
 
-The Great Leader; on openness
-By Casper Kaels, Kevin Tonning,  Marcus Jensen, Philip Fisker, Sylvester Andersen.
+<b>The Great Leader 2017</b><i>; on openness
+By Casper Kaels, Kevin Tonning,  Marcus Jensen, Philip Fisker, Sylvester Andersen.</i>
 
 The infrastructure of society has throughout history always been defined by ways in which information and goods has been transmitted across time and space. Throughout most of our history this infrastructure has been largely reliant on the trade-networks of roads; as an example of this was how the silk-road meant the trade of foreign goods and information across national and cultural borders. Some of the most powerful people were the ones that controlled or owned parts of these trade networks, and thus had direct power to the information that made possible the altering of such networks.
 The same concept was further developed along with the industrial revolution and the invention of railroads; the concept of a network distributing information was the same, and again we saw that the people of power, most likely were the ones who had (at least to some degree) access to change and manage how the railroads were managed.
