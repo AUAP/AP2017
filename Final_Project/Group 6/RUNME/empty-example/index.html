@@ -1,0 +1,88 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+  <script language="javascript" type="text/javascript" src="libraries/p5.js"></script>
+  <!-- uncomment lines below to include extra p5 libraries -->
+  <script language="javascript" src="libraries/p5.dom.js"></script>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <script language="javascript" src="libraries/p5.sound.js"></script>
+  <script language="javascript" type="text/javascript" src="sketch.js"></script>
+  <!-- this line removes any default padding and style. you might only need one of these values set. -->
+  <style> body {padding: 0; margin: 0;} </style>
+  <style>
+      p {
+        position: absolute;
+        top: 200px;
+        color: #ffffff;
+        left:50px; 
+        margin-left: auto;
+        margin-right: auto; 
+        max-width: 400px;
+        word-break: normal;
+        font-size: 13; 
+        font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif; 
+        
+      }
+      
+      textarea {
+        position: absolute;
+        top: 75px;
+        left: 520px; 
+        width: 27.79%; 
+        margin-left: auto;
+        margin-right: auto; 
+        color: #a5a0a0;
+        padding-top: 10px; 
+        padding-left: 10px; 
+        
+        padding-bottom: 19px;
+        border: none; 
+        border-radius: 3px;
+        font-size: 15px;
+        display: block; 
+        resize: none;  
+      }
+      textarea:focus {
+        outline: 0; 
+        -webkit-box-shadow: none;
+        box-shadow: none;
+}
+      button {
+        position: absolute;
+        top: 155px;
+        left: 820;
+        background-color: #385288; 
+        font-size: 11px; 
+        border-radius: 4px; 
+        box-shadow: 0.5px 0.5px 0.5px 0.5px #31497b; 
+        border: 0.5px solid #385288; 
+        width: 55px; 
+        font-weight: 350; 
+        color: #ffffff; 
+        -webkit-transition-duration: 0.4s; /* Safari */
+        transition-duration: 0.4s;
+        display: block; 
+        cursor: pointer;
+      }
+      
+      button:hover {
+       background-color: #31497b; 
+       border: 1px solid #31497b; 
+       box-shadow: 1px 1px 1px 0.7px #31497b;
+      }
+      
+      button:focus {
+        outline: 0; 
+        -webkit-box-shadow: none;
+        box-shadow: none;
+
+      }
+    </style>
+</head>
+
+<body>
+    <p id = "output"></p>
+    <textarea id="textArea" placeholder="Write something here..."></textarea>
+    <button id = "post" input type="button" value="Clear" onclick="javascript:eraseText();">Post</button>
+</body>
+</html>
