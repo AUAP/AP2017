@@ -1,14 +1,13 @@
 # [D-CEIVE - Data Commercialization ExtractIng ValuE](https://magnusjmj.github.io/Left4DD/D-CEIVE/)
-
-Rasmus Bøgelund Elbinger Kjærgaard, Martin Morgen Skødt, Jens Magnus Johansen, Anine Hansen
+Rasmus Bøgelund Elbinger Kjærgaard | Martin Morgen Skødt | Jens Magnus Johansen | Anine Hansen
 
 For this project we decided to focus on cybercapitalism and personalized advertisements, as presented by Renée Ridgway(1). We look at how data has become a currency in our digital culture, how this data is being extracted through hidden processes and used by companies to generate profit.
 
 ![LifeEnhancer](https://cdn.rawgit.com/MagnusJMJ/Left4DD/2ebc33f5/Pictures/LifeEnhancer.PNG)
 
-![SignUp](https://cdn.rawgit.com/MagnusJMJ/Left4DD/2ebc33f5/Pictures/V%C3%A6lgNoget.PNG)
-
 ![Commercials](https://github.com/MagnusJMJ/Left4DD/blob/master/Pictures/Commercialz.PNG)
+
+![SignUp](https://cdn.rawgit.com/MagnusJMJ/Left4DD/2ebc33f5/Pictures/V%C3%A6lgNoget.PNG)
 
 ## Program Description
 Our program mimics a signup-process for a fictitious service that presents itself as a an important part of everyday life. The entirety of the signup-process is relatively normal and predictable, though it possesses a more thorough questionnaire than usual. At the end-page the user is met by a visualization of spamming popup-ads. 
