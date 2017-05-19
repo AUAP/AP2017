@@ -2,6 +2,8 @@
 Maria Ohrt Christensen, Mikkel Langberg Svendsen, Marie Louise Sandal, Nynne Lucca
 
 
+<h3>RUNME:</h3> https://rawgit.com/AUAP/AP2017/master/Final_Project/Group%206/RUNME/empty-example/index.html
+
 Our software aims at expressing the notion of social capital (Grosser, 2014, p.. 2) and its relation to freedom of speech on social media.
 
 We would like to explore how social media and especially Facebook supports and sustains already existing social structures of the society. Meaning that on Facebook we find a similarity to the capitalistic concept, where the ones that have more get more. In this case it’s not regarding the economical aspect, but the social aspect. Social capital is tied with personal worth and prestige in comparison to other people, notably friends. Raising one’s social capital is achieved by raising the numbers on your Facebook profile; your number of friends, likes, comments and so on.
