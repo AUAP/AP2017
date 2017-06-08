@@ -1,10 +1,7 @@
 /*
-   ******************************************************
-   ** Left4DD Final Project Super Happy Go-Go Supreme™ **
-   ******************************************************
-   TODO:
-    * clean up code(!)
-    * Figure out presentation
+   ***************************
+   ** Left4DD FinalProject™ **
+   ***************************
 */
 
 // initialization of global variables
