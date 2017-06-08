@@ -31,7 +31,7 @@ var cat        = 0, // 'cat' and 'subCat' are counters to keep
       [multChoice.sex],
       [multChoice.age],
       ['Which country do you live in?', 'Which city do you live in?', 'What is the name of your street?', 'What is your house-number?'],
-      ['What is your education level?', 'What is your job?', 'Who is your employer?', 'What is your mounthly household income?'],
+      ['What is your education level?', 'What is your job?', 'Who is your employer?', 'What is your monthly household income?'],
       ['What is your sexual orientation?'],
       [multChoice.hobbies],
       [multChoice.sports],
